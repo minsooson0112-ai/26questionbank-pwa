@@ -1,0 +1,728 @@
+[
+  {
+    "id": 1,
+    "question": "한 DNA가닥이 상보적 DNA가닥과 결합할 때의 방식은?",
+    "options": ["수소결합", "포스포디에스테르결합", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "염색체를 관찰하기에 가장 좋은 시기는?",
+    "options": ["세사기", "전기", "중기", "후기", "말기"],
+    "answer": 3
+  },
+  {
+    "id": 3,
+    "question": "20가지 아미노산의 배열·결합을 결정하는 기관은?",
+    "options": ["핵", "핵막", "핵공", "리보솜", "리소좀"],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "다음 중 멸균법으로 맞는 것은?",
+    "options": ["121℃ 15분 가압증기", "121℃ 15분 증기증기", "121℃ 30분 가압증기", "121℃ 30분 건열증기", "180℃ 15분 가압증기"],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "question": "세포막의 구성성분이 아닌 것은?",
+    "options": ["protein", "cholesterol", "phospholipid", "glycoprotein", "triglycerol"],
+    "answer": 5
+  },
+  {
+    "id": 6,
+    "question": "세포막을 구성하는 지방은?",
+    "options": ["", "", "Phospholipid", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 7,
+    "question": "세포막의 기능이 아닌 것은?",
+    "options": ["세포 내 물질 자가포식", "세포 내 유입 음세포작용", "세포 내부 항상성 유지 경계막", "외부와의 물질통로 역할", "삼투압 조절 기능"],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "세포막의 기능 설명으로 틀린 것은?",
+    "options": ["경계막 역할", "물질통로 역할", "삼투압조절", "필요 물질 인지기능", "호르몬·세포통로 수용체가 없다"],
+    "answer": 5
+  },
+  {
+    "id": 9,
+    "question": "핵막을 통해 세포질로 이동하는 것은?",
+    "options": ["DNA", "mRNA", "아미노산", "단백질", ""],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "question": "amino acid와 동일한 염기서열을 가지는 것은?",
+    "options": ["mRNA", "DNA", "tRNA", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 11,
+    "question": "세포 핵 내에서 일어나는 반응이 아닌 것은?",
+    "options": ["RNA 합성", "DNA 합성", "단백질 합성", "소포체 리보솜 합성", ""],
+    "answer": 3
+  },
+  {
+    "id": 12,
+    "question": "지질 이중막으로 존재하는 세포 내 소기관 조합은?",
+    "options": ["핵-골지체", "골지체-조면소포체", "조면소포체-활면소포체", "활면소포체-미토콘드리아", "미토콘드리아-핵"],
+    "answer": 5
+  },
+  {
+    "id": 13,
+    "question": "ATP는 어디에 속하는가?",
+    "options": ["nucleoside", "nucleotide (carbohydrate+base+phosphate)", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "question": "외부 병원균에 특이적으로 반응하지 않는 것은?",
+    "options": ["NK cell", "MHC class II", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "단백질을 합성하는 세포 내 소기관은?",
+    "options": ["핵", "소포체", "리보솜", "리소좀", "미토콘드리아"],
+    "answer": 3
+  },
+  {
+    "id": 16,
+    "question": "혈액·눈물 속 lysozyme의 방어작용은?",
+    "options": ["그람양성균 펩티도글리칸 파괴", "특정 병원체 합성능력 저하시킴", "염증 유발·혈관 투과성 증가", "혈액 응고 촉진", ""],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "question": "면역반응 시 LPS 구조를 파괴하는 비특이적 인자?",
+    "options": ["트랜스페린", "lysosome", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 18,
+    "question": "과산화수소를 분해하는 세포 소기관은?",
+    "options": ["리보좀", "라이소좀", "퍼옥시좀", "미토콘드리아", "골지체"],
+    "answer": 3
+  },
+  {
+    "id": 19,
+    "question": "거대분자-벽돌분자 짝으로 틀린 것은?",
+    "options": ["핵산-뉴클레오타이드", "지질-지방산", "단백질-아미노산", "탄수화물-다당류", "리보솜-RNA"],
+    "answer": 5
+  },
+  {
+    "id": 20,
+    "question": "보체 설명으로 옳지 않은 것은?",
+    "options": ["12개 구성", "혈액 속 존재", "조직 속 존재", "이열성", "내열성"],
+    "answer": 5
+  },
+  {
+    "id": 21,
+    "question": "어류의 보체 사용 시 필요한 배지는?",
+    "options": ["", "CO2 배지", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 22,
+    "question": "항염증인자로 mast cell 작용을 방해하는 것은?",
+    "options": ["호중구", "호염기구", "호산구", "백혈구", "림프구"],
+    "answer": 3
+  },
+  {
+    "id": 23,
+    "question": "종양세포에 대한 면역반응과 관계 없는 것은?",
+    "options": ["CTL", "호중구", "호산구", "호염기구", ""],
+    "answer": 2
+  },
+  {
+    "id": 24,
+    "question": "세균이 철을 빼앗기 위해 분비하는 화합물은?",
+    "options": ["알파-amanitin", "Transferrin", "Siderophore", "Adgesin", ""],
+    "answer": 2
+  },
+  {
+    "id": 25,
+    "question": "장내세균이 합성하는 시데로포어는?",
+    "options": ["Lactoferrin", "Ferritin", "Enterochein", "Transferrin", ""],
+    "answer": 3
+  },
+  {
+    "id": 26,
+    "question": "스테로이드 해독작용 기관은?",
+    "options": ["", "", "", "", "무과립소체"],
+    "answer": 5
+  },
+  {
+    "id": 27,
+    "question": "T cell에 항원정보를 제공하는 세포는?",
+    "options": ["호중구", "호산구", "호염기구", "마크로파지", "비만세포"],
+    "answer": 4
+  },
+  {
+    "id": 28,
+    "question": "면역원을 더 자극시키는 것은?",
+    "options": ["내독소", "외독소", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 29,
+    "question": "철과 결합해 세균 철 이용을 방어하는 것은?",
+    "options": ["Lysozyme", "Transferrin", "Sebum", "Histamine", ""],
+    "answer": 2
+  },
+  {
+    "id": 30,
+    "question": "과잉 철분을 세포 내 저장하여 방어하는 것은?",
+    "options": ["베타리신", "페리틴", "세붐", "히스타민", ""],
+    "answer": 2
+  },
+  {
+    "id": 31,
+    "question": "염색체와 별도로 존재하며 독립 증식하는 유전인자?",
+    "options": ["Plasmid", "Capsule", "Spore", "Genome", ""],
+    "answer": 1
+  },
+  {
+    "id": 32,
+    "question": "항생제 내성을 전달시키는 유전인자는?",
+    "options": ["Clicin factor", "Resistance transfer", "Lysin factor", "Phage factor", ""],
+    "answer": 2
+  },
+  {
+    "id": 33,
+    "question": "PCR 시약 중 필요 없는 것은?",
+    "options": ["Mg2+", "template", "ATP", "Taq polymerase", "Primer"],
+    "answer": 3
+  },
+  {
+    "id": 34,
+    "question": "PCR 비특이적 밴드 원인으로 적절하지 않은 것은?",
+    "options": ["Buffer pH", "Buffer 온도", "시간", "DNA 양", "전기영동 시간"],
+    "answer": 5
+  },
+  {
+    "id": 35,
+    "question": "플라스미드 R 인자 설명으로 옳은 것은?",
+    "options": ["돌연변이 저항성", "독소 암호화", "세포가 항생제·독성물질 저항성 획득", "특정 색소·항생물질 합성", ""],
+    "answer": 3
+  },
+  {
+    "id": 36,
+    "question": "Bacteriophage로 염색체 전달되는 방법은?",
+    "options": ["", "", "junction", "Translation", "Transduction"],
+    "answer": 5
+  },
+  {
+    "id": 37,
+    "question": "F+균 → F-균 유전물질 전달 방식은?",
+    "options": ["형질도입", "형질전환", "접합", "형질변이", ""],
+    "answer": 3
+  },
+  {
+    "id": 38,
+    "question": "검사방법-장비 짝으로 틀린 것은?",
+    "options": ["형광항체법-형광현미경", "PCR-전기영동기", "방사선-동위원소검사기", "겔침강반응-습윤상자", ""],
+    "answer": 4
+  },
+  {
+    "id": 39,
+    "question": "Autoclave 정확한 설정은?",
+    "options": ["", "", "121도 15분 가압증기", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 40,
+    "question": "고체배지 멸균에 적당한 방법은?",
+    "options": ["건열멸균", "습열멸균", "화학멸균", "여과멸균", ""],
+    "answer": 2
+  },
+  {
+    "id": 41,
+    "question": "겔에서 혈구응집+전기영동을 함께 하는 방법은?",
+    "options": ["oudin", "Ouchterlony", "Bowen", "single RID", "immunoelectrophoresis"],
+    "answer": 5
+  },
+  {
+    "id": 42,
+    "question": "면역 전기영동 설명으로 옳은 것은?",
+    "options": ["이차원적 방법", "", "OUDIN보다 빠름", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 43,
+    "question": "병력 없는데 항체 생성됨 → 의심 질병은?",
+    "options": ["만성", "불현성", "잠복성", "급성", "중증"],
+    "answer": 2
+  },
+  {
+    "id": 44,
+    "question": "항체 설명으로 옳은 것은?",
+    "options": ["염증 유발·그람음성균 사멸", "특정 병원체에 대한 단백질", "펩티도글리칸층 파괴", "철을 빼앗아 성장 억제", ""],
+    "answer": 2
+  },
+  {
+    "id": 45,
+    "question": "Hapten 특징 중 틀린 것은?",
+    "options": ["자체 항원성 없음", "시험관에서 항체와 반응 못함", "저분자", "구조 단순", ""],
+    "answer": 2
+  },
+  {
+    "id": 46,
+    "question": "체액성면역에서 특이적 면역인 것은?",
+    "options": ["보체", "", "항체", "Transferrin", "점액"],
+    "answer": 3
+  },
+  {
+    "id": 47,
+    "question": "보체를 필요로 하는 반응은?",
+    "options": ["중화반응", "침강반응", "용혈반응", "응집반응", ""],
+    "answer": 3
+  },
+  {
+    "id": 48,
+    "question": "어류 비특이적 면역 중 옵소닌 작용을 하는 것은?",
+    "options": ["대식세포", "비만세포", "보체", "인터페론", "NK cell"],
+    "answer": 3
+  },
+  {
+    "id": 49,
+    "question": "어류의 특이적 면역 관련 세포가 아닌 것은?",
+    "options": ["Lymphocyte", "Thrombocyte", "Macrophage", "Cytotoxic T cell", "Helper T cell"],
+    "answer": 2
+  },
+  {
+    "id": 50,
+    "question": "보체 비동화 조건으로 적합한 것은?",
+    "options": ["37도 5min", "60도 5min", "20도 10min", "37도 30min", "56도 30min"],
+    "answer": 5
+  },
+  {
+    "id": 51,
+    "question": "감염부위(염증부위)에서 호중구와 마크로파지를 모이게 하는 것은?",
+    "options": ["", "C3a, C5a(보체)", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 52,
+    "question": "다음 중 어류의 생리활성물질이 아닌 것은?",
+    "options": ["대식세포", "인터루킨-2", "TNF", "macrophage", "TCR"],
+    "answer": 5
+  },
+  {
+    "id": 53,
+    "question": "다음 중 어류의 생리활성물질이 아닌 것은?",
+    "options": ["Interleukin", "Pha", "INF", "Interferon", ""],
+    "answer": 2
+  },
+  {
+    "id": 54,
+    "question": "다음 중 생리활성물질을 측정하는 방법은?",
+    "options": ["", "ELISA", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 55,
+    "question": "다음 중 ELISA로 측정할 수 없는 것은?",
+    "options": ["특정단백질량", "보체량", "라이소자임 활성", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 56,
+    "question": "ELISA 분석 시 나타나는 프로존 현상의 설명으로 알맞은 것은?",
+    "options": ["코팅된 항원 과잉으로 특이적 결합 감소", "효소와 결합지질 문제", "코팅 영역 부족", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 57,
+    "question": "ELISA에서 2차항체를 사용하는 이유가 아닌 것은?",
+    "options": ["정확성", "신속성", "증폭성", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 58,
+    "question": "흡광도가 필요한 시험 방법은?",
+    "options": ["ELISA", "", "전기영동", "PCR", ""],
+    "answer": 1
+  },
+  {
+    "id": 59,
+    "question": "가장 신속한 진단기법은?",
+    "options": ["EIA법", "Ouchterlony", "세균배양법", "DNA추출확인법", ""],
+    "answer": 1
+  },
+  {
+    "id": 60,
+    "question": "생리활성물질 중 신호전달체계에 관여하지 않는 것은?",
+    "options": ["", "", "IP3", "라이아신 글리소라인", "CD3 complex"],
+    "answer": 5
+  },
+  {
+    "id": 61,
+    "question": "면역체계에서 생리활성물질이 하지 않는 역할은?",
+    "options": ["", "", "", "세포 간 신호전달", "자살프로그램 실행"],
+    "answer": 5
+  },
+  {
+    "id": 62,
+    "question": "T세포 생산을 촉진하는 생리활성물질은?",
+    "options": ["IL-1", "IL-2", "IFN-α", "IFN-β", "IFN-γ"],
+    "answer": 2
+  },
+  {
+    "id": 63,
+    "question": "T-helper cell의 도움으로 생성되는 생리활성물질은?",
+    "options": ["일반항체", "IL-1", "IL-2", "IFN-α", "IFN-β"],
+    "answer": 3
+  },
+  {
+    "id": 64,
+    "question": "Interferon의 이화학적 설명으로 옳지 않은 것은?",
+    "options": ["분자량 20,000~40,000", "당단백", "트립신에 의해 활성이 소실됨", "저단백 구성", ""],
+    "answer": 4
+  },
+  {
+    "id": 65,
+    "question": "동물세포가 바이러스 감염 시 합성·분비되는 항바이러스성 단백질은?",
+    "options": ["인터루킨", "브라디키닌", "세로토닌", "인터페론", ""],
+    "answer": 4
+  },
+  {
+    "id": 66,
+    "question": "면역강화물질을 총칭하는 것은?",
+    "options": ["Adjuvant", "Hapten", "Epitope", "Opsonin", "Bacteriotropin"],
+    "answer": 1
+  },
+  {
+    "id": 67,
+    "question": "면역이 낮은 어류에서 기대 이상 효과를 보이는 경우는?",
+    "options": ["면역첨가사료 계속 투여", "충분한 영양공급", "기억작용 활성 위해 백신 반복접종", "항체 섞어서 공급", "충분한 휴식"],
+    "answer": 1
+  },
+  {
+    "id": 68,
+    "question": "면역자극제의 기능이 아닌 것은?",
+    "options": ["보체활성", "호중구 활성", "코티졸 기능 증가", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 69,
+    "question": "면역자극제 첨가 시 고려사항이 아닌 것은?",
+    "options": ["면역자극", "반드시 수용성", "적절한 투여량과 기간", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 70,
+    "question": "면역자극제가 체내에서 일으키지 않는 것은?",
+    "options": ["대식세포 활력 증가", "NK세포 활력 증가", "보체 기능 항전", "호중구 기능 증가", "항체생산"],
+    "answer": 5
+  },
+  {
+    "id": 71,
+    "question": "면역증강물질을 얻는 곳이 아닌 것은?",
+    "options": ["세균 세포벽", "효모 세포벽", "해양천연물", "바이러스 외막", ""],
+    "answer": 4
+  },
+  {
+    "id": 72,
+    "question": "면역증강제를 추출하는 대상이 아닌 것은?",
+    "options": ["세균 세포벽 성분", "해조류 다당류", "효모", "해양천연생물", "바이러스 구조단백"],
+    "answer": 5
+  },
+  {
+    "id": 73,
+    "question": "비특이적 면역증강지표가 아닌 것은?",
+    "options": ["대식기능", "핵산복제", "라이소자임", "마크로파지", "호흡폭발"],
+    "answer": 2
+  },
+  {
+    "id": 74,
+    "question": "면역증강제인 levamisole 특성 중 틀린 것은?",
+    "options": ["세균성질병 치료약으로 사용", "비특이적 면역반응 증가", "과량 사용 시 면역력 감소", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 75,
+    "question": "능동면역에 쓰이는 백신은?",
+    "options": ["비활성 질병유발물질", "임파구", "혈장 cell", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 76,
+    "question": "점액·타액·체표에 많이 분비되는 면역글로불린은?",
+    "options": ["IgG", "IgM", "IgA", "IgE", ""],
+    "answer": 3
+  },
+  {
+    "id": 77,
+    "question": "눈물·타액·점액 분비로 분비항체라 불리는 면역글로불린은?",
+    "options": ["IgA", "IgD", "IgE", "IgM", ""],
+    "answer": 1
+  },
+  {
+    "id": 78,
+    "question": "사람 점액·분비물 내 가장 풍부한 Ig는?",
+    "options": ["IgA", "IgD", "IgE", "IgG", ""],
+    "answer": 1
+  },
+  {
+    "id": 79,
+    "question": "Allergy와 깊은 관계 있는 면역글로불린은?",
+    "options": ["IgG", "IgA", "IgM", "IgE", ""],
+    "answer": 4
+  },
+  {
+    "id": 80,
+    "question": "IgE가 부착되는 세포는?",
+    "options": ["호중구", "단구", "호염기구", "적혈구", ""],
+    "answer": 3
+  },
+  {
+    "id": 81,
+    "question": "혈액·조직액에서 가장 풍부하며 모체항체라 불리는 Ig는?",
+    "options": ["IgD", "IgE", "IgG", "IgM", ""],
+    "answer": 3
+  },
+  {
+    "id": 82,
+    "question": "사람 면역글로불린 중 혈액 반감기가 가장 긴 것은?",
+    "options": ["IgA", "IgD", "IgE", "IgG", ""],
+    "answer": 4
+  },
+  {
+    "id": 83,
+    "question": "IgG를 파파인으로 가수분해하면 몇 개 단편으로 나뉘는가?",
+    "options": ["1개", "2개", "3개", "4개", "5개"],
+    "answer": 3
+  },
+  {
+    "id": 84,
+    "question": "분자량이 가장 큰 면역글로불린은?",
+    "options": ["IgD", "IgE", "IgG", "IgM", ""],
+    "answer": 4
+  },
+  {
+    "id": 85,
+    "question": "J chain을 가지고 있는 면역글로불린은?",
+    "options": ["IgG", "IgM", "IgD", "IgE", ""],
+    "answer": 2
+  },
+  {
+    "id": 86,
+    "question": "바이러스 생백신 제작 시 고려사항이 아닌 것은?",
+    "options": ["바이러스 독성제거", "감염력 제거", "독성", "예비", "주화세포와 함께 투여"],
+    "answer": 5
+  },
+  {
+    "id": 87,
+    "question": "어류백신의 조건이 아닌 것은?",
+    "options": ["안전성·경제성", "항원성·지속성", "재현성", "상업성", "병원성·회복성"],
+    "answer": 5
+  },
+  {
+    "id": 88,
+    "question": "백신투여 후 나타나는 영향이 아닌 것은?",
+    "options": ["살해세포 증가", "보체", "활성산소 증가", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 89,
+    "question": "cytokine과 관련 없는 것은?",
+    "options": ["대식세포 활성인자", "IL-2", "interferon", "TGF", "보체"],
+    "answer": 5
+  },
+  {
+    "id": 90,
+    "question": "면역증강물질 β-glucan의 유래는?",
+    "options": ["효모", "비브리오균", "게껍질", "LPS", "해조류"],
+    "answer": 1
+  },
+  {
+    "id": 91,
+    "question": "면역증강제 장기투여 후 면역 증가와 거리가 먼 것은?",
+    "options": ["보체 활성 증가", "NK세포 살해능 증가", "대식세포 활성산소 증가", "항체 활성 증가", "호중구 활성 증가"],
+    "answer": 4
+  },
+  {
+    "id": 92,
+    "question": "gel 내 침강반응 + 전기영동을 함께 사용하는 방법은?",
+    "options": ["ELISA", "double immunodiffusion", "radial immunodiffusion", "immunoelectrophoresis", "해조류"],
+    "answer": 4
+  },
+  {
+    "id": 93,
+    "question": "형광항체법의 진단원리와 다른 것은?",
+    "options": ["ELISA", "PCR", "혈청응집반응", "바이러스 중화실험", "간접형광항체법"],
+    "answer": 2
+  },
+  {
+    "id": 94,
+    "question": "지방염색에 사용할 수 없는 염색약은?",
+    "options": ["osmium tetroxide", "nile blue", "oil red O", "sudan IV", "azaridin red"],
+    "answer": 5
+  },
+  {
+    "id": 95,
+    "question": "PCR 시약으로 필요 없는 것은?",
+    "options": ["Mg2+", "template DNA", "Taq polymerase", "primer", "ATP"],
+    "answer": 5
+  },
+  {
+    "id": 96,
+    "question": "어류의 특이적 면역 관련세포가 아닌 것은?",
+    "options": ["Lymphocyte", "Thrombocyte", "Macrophage", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 97,
+    "question": "체액성 면역에서 특이적 면역인 것은?",
+    "options": ["보체", "", "항체", "transferrin", "점액"],
+    "answer": 3
+  },
+  {
+    "id": 98,
+    "question": "특이적 면역이 가장 발달한 생물은?",
+    "options": ["새우", "문어", "먹장어", "칠성장어", "뱀장어"],
+    "answer": 5
+  },
+  {
+    "id": 99,
+    "question": "apoptosis의 시작을 알리는 효소는?",
+    "options": ["카스파아제", "리파아제", "엔도뉴클레아제", "헬리카아제", ""],
+    "answer": 1
+  },
+  {
+    "id": 100,
+    "question": "염증 매개 화학 인자는?",
+    "options": ["호중구", "호염기구", "prostaglandin", "prolactin", "cortisol"],
+    "answer": 3
+  },
+  {
+    "id": 101,
+    "question": "다음 중 결과를 보기 위해 현미경이 필요한 것은?",
+    "options": ["효소항체법", "형광항체법", "PCR", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 102,
+    "question": "바이러스를 주화세포 내에서 배양하는 이유는?",
+    "options": ["세포 효소 이용", "세포 생리활성물질 이용", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 103,
+    "question": "세포 외부적 크기로 볼 때 핵 비율이 가장 큰 것은?",
+    "options": ["적혈구", "대식세포", "과립구", "림프구", "수지상세포"],
+    "answer": 4
+  },
+  {
+    "id": 104,
+    "question": "상피에 감염되어 증식·융해·백탁을 일으키는 바이러스는?",
+    "options": ["림포시스티스", "상피증생증", "이리도바이러스", "유행성조혈기괴사증", "혈관내피세포괴사증"],
+    "answer": 2
+  },
+  {
+    "id": 105,
+    "question": "미지의 바이러스를 PCR로 동정하기 어려운 이유는?",
+    "options": ["PCR 온도 설정 문제", "96℃에서 단일가닥 여부 불명", "dNTP 종류 파악 어려움", "프라이머 제작 어려움", "Taq polymerase 때문"],
+    "answer": 4
+  },
+  {
+    "id": 106,
+    "question": "흡광도 측정으로 하는 진단은?",
+    "options": ["PCR", "전기영동", "형광항체법", "효소항체법", "혈구응집측정법"],
+    "answer": 5
+  },
+  {
+    "id": 107,
+    "question": "특이면역반응이 아닌 것은?",
+    "options": ["호중구", "Cytotoxic T세포", "helper T세포", "항체", "B세포"],
+    "answer": 1
+  },
+  {
+    "id": 108,
+    "question": "면역증강제 활성지표가 아닌 것은?",
+    "options": ["보체 활성", "리소좀 활성", "대식세포 활성", "마크로파지 활성산소 증가", "미토콘드리아 증식"],
+    "answer": 5
+  },
+  {
+    "id": 109,
+    "question": "양이온 게면활성제로 해부기 소독제로 사용하는 것은?",
+    "options": ["KMnO4", "povidone iodine", "crystal violet", "benzalkonium chloride", "ethylene oxide"],
+    "answer": 4
+  },
+  {
+    "id": 110,
+    "question": "항체가 항원 활성을 소실시키는 반응(중화)에 해당하는 것은?",
+    "options": ["옵소닌", "중화항체", "ADCC", "APC", ""],
+    "answer": 2
+  },
+  {
+    "id": 111,
+    "question": "유상피세포와 관련된 것은?",
+    "options": ["림프구", "호중구", "마크로파지", "IgE", "결합조직"],
+    "answer": 3
+  },
+  {
+    "id": 112,
+    "question": "GOD(Glucose oxidase) 측정 시 유의해야 할 것은?",
+    "options": ["혈구파괴", "혈액 채취 부위", "24시간 내 실험", "혈액 내 glucose 함량", "pseudomonas"],
+    "answer": 1
+  },
+  {
+    "id": 113,
+    "question": "Freund's Adjuvant와 관련 있는 것은?",
+    "options": ["aeromonas", "vibrio", "mycobacterium", "streptococcus", "pseudomonas"],
+    "answer": 3
+  },
+  {
+    "id": 114,
+    "question": "백신 투여 후 나타나는 영향이 아닌 것은?",
+    "options": ["살해세포 증가", "보체 활성", "활성산소 증가", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 115,
+    "question": "면역증강제가 영구적 예방을 하지 못하는 이유는?",
+    "options": ["", "", "특정 항체를 생성하지 못하기 때문", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 116,
+    "question": "면역증강제에 대한 설명으로 옳지 않은 것은?",
+    "options": ["", "특이적 면역능력 증가", "비특이적 면역 증가", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 117,
+    "question": "스스로 면역반응을 일으키지 못하지만 특정 항체와 결합하면 면역반응을 일으키는 것은?",
+    "options": ["항체", "보체", "합텐", "adjuvant", "transferrin"],
+    "answer": 3
+  },
+  {
+    "id": 118,
+    "question": "적혈구 용혈로 알아보는 실험은?",
+    "options": ["PCR", "Complement fixation", "형광항체법", "효소항체법", "ELISA"],
+    "answer": 2
+  },
+  {
+    "id": 119,
+    "question": "수용액에 부유한 세포표면의 특정 바이러스 검출 방법은?",
+    "options": ["PCR", "Complement fixation", "형광항체법", "효소항체법", "ELISA"],
+    "answer": 3
+  },
+  {
+    "id": 120,
+    "question": "형광항체법에서 2차 항체를 붙이는 이유는?",
+    "options": ["", "", "", "", "형광량 증폭으로 빛 감지 활성화"],
+    "answer": 5
+  },
+  {
+    "id": 121,
+    "question": "Aeromonas·Vibrio PCR 시 중복되지 않아야 하는 것은?",
+    "options": ["", "", "Template, Primer", "", ""],
+    "answer": 3
+  }
+]

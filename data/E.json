@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "question": "다음 진균류 중에서 가장 진화된 균류는?",
+    "options": [
+      "불완전균류",
+      "담자균류",
+      "조균류",
+      "자낭균류",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "id": 2,
+    "question": "다음 중 spore의 특징을 바르게 설명한 것은?",
+    "options": [
+      "내열체이나 증식체는 아니다.",
+      "증식체이나 내열체는 아니다.",
+      "증식체이면서 내열체이다.",
+      "고압증기멸균법으로 파괴되지 않는다.",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3,
+    "question": "다음 중 어류의 곰팡이성 질병과 원인균이 맞게 짝지어지지 않은 것은?",
+    "options": [
+      "송어 - Candida sake",
+      "메기 - Exophiala pisciphila",
+      "대서양연어 - Exophiala salmonis",
+      "잉어 - Fusarium solani",
+      ""
+    ],
+    "answer": 4
+  },
+  {
+    "id": 4,
+    "question": "Candida sake 의 증상은?",
+    "options": [
+      "",
+      "위 확장증(위가 늘어나서 복부가 심하게 팽창된다.)",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "question": "어류에서 팽윤부의 피부가 붕괴되고 하부근육이 형성되어 적색 육아종이 노출되는 질병은?",
+    "options": [
+      "",
+      "",
+      "",
+      "Aphanomyces",
+      ""
+    ],
+    "answer": 4
+  },
+  {
+    "id": 6,
+    "question": "Aphanomyces에 대한 설명 중 틀린 것은?",
+    "options": [
+      "격벽이 있다.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "Branchiomyces증의 대표적인 증상은?",
+    "options": [
+      "채색흑화",
+      "아가미 부식",
+      "안구돌출 및 출혈",
+      "복수저류",
+      "복부팽만"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8,
+    "question": "Branchiomyces sanguinis 의 주요 병리증상은?",
+    "options": [
+      "체색흑화",
+      "안구돌출 및 출혈",
+      "복수저류",
+      "복부팽만",
+      "아가미 부식"
+    ],
+    "answer": 5
+  },
+  {
+    "id": 9,
+    "question": "무지개송어에서 백색 결절을 유발하는 병원체는?",
+    "options": [
+      "Aphanomyces",
+      "Ichthyophonus hoferi",
+      "Candida sake",
+      "Exophiala pisciphila",
+      "Exophiala salmonis"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "question": "근육 내 육아종을 형성하는 진균류는?",
+    "options": [
+      "",
+      "",
+      "",
+      "",
+      "Ichthyophonus hoferi"
+    ],
+    "answer": 5
+  },
+  {
+    "id": 11,
+    "question": "송어류에 신장이 종대되고 백색의 결절이 생겼으나 세균이 검출되지 않았다. 무슨 병인가?",
+    "options": [
+      "",
+      "Ichthyophonus hoferi",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "id": 12,
+    "question": "Ichthyophonus의 다핵구상체를 확인하기 위해 도말해야 하는 부위는?",
+    "options": [
+      "간",
+      "심장",
+      "아가미",
+      "신장",
+      "근육"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 13,
+    "question": "방어 익티오포누스가 수온 20도를 넘으면 병이 종식되는 이유는?",
+    "options": [
+      "균 발육온도가 20도 이하이므로",
+      "기생체의 영양결핍",
+      "사육수 염분",
+      "신장·간장 결절 형성 때문",
+      "다핵구상체가 체외 방출되기 때문"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "question": "Ichthyophonus 병의 치료가 어려운 주된 이유는?",
+    "options": [
+      "상피에 균사를 번식시키기 때문에",
+      "진피조직 내에 균사를 번식시키기 때문에",
+      "지느러미에 균사를 번식시키기 때문에",
+      "비늘에 균사를 번식시키기 때문에",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "id": 15,
+    "question": "보리새우 아가미에서 fragment와 유주자가 확인되었다. 이 편모균은?",
+    "options": [
+      "Fusarium solani",
+      "Saprolegnia parasitica",
+      "Branchiomyces sanguinis",
+      "Ichthyobodo hoferi",
+      "Haliphthoros mifordensis"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "question": "Fusarium sorrari는 새우의 어느 부위에 감염되는가?",
+    "options": [
+      "간",
+      "신장",
+      "비장",
+      "아가미",
+      "생식소"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 17,
+    "question": "새우의 아가미에 흑점이 생기는 원인은?",
+    "options": [
+      "",
+      "",
+      "",
+      "Fusarium sorrari",
+      ""
+    ],
+    "answer": 4
+  },
+  {
+    "id": 18,
+    "question": "Fusarium solani 감염 시 아가미가 검게 보이는 이유는?",
+    "options": [
+      "",
+      "",
+      "멜라닌 색소 침착",
+      "",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "id": 19,
+    "question": "새우가 Fusarium에 감염되면 아가미가 검어지는 이유는?",
+    "options": [
+      "",
+      "",
+      "멜라닌 색소 침착",
+      "",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "id": 20,
+    "question": "은어 치어의 부레에 침입하여 번식 후 전신 확산되는 질병은?",
+    "options": [
+      "칸디다증",
+      "phoma증",
+      "saprolegnia",
+      "fusarium",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "id": 21,
+    "question": "편모균류 데로모시스티듐의 감염부위는?",
+    "options": [
+      "위",
+      "근육",
+      "아가미",
+      "신장",
+      "뇌"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 22,
+    "question": "Saprolegnia는 분류학적으로 어디에 속하는가?",
+    "options": [
+      "불완전균류",
+      "자낭균류",
+      "조균류",
+      "담자균류",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "id": 23,
+    "question": "균사 길이 1~3cm, 회백색 솜 모양 병변을 보이는 어류 질병은?",
+    "options": [
+      "노카르디아병",
+      "콜룸나리스병",
+      "에드워드병",
+      "비브리오병",
+      "물곰팡이병"
+    ],
+    "answer": 5
+  },
+  {
+    "id": 24,
+    "question": "물곰팡이병은 주로 어느 부위에 발병하는가?",
+    "options": [
+      "아가미",
+      "지느러미",
+      "죽은 알",
+      "안구",
+      "몸통"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 25,
+    "question": "물곰팡이병의 발생조건이 아닌 것은?",
+    "options": [
+      "담수",
+      "10-15도 저온",
+      "27도 이상의 수온",
+      "변질된 사료",
+      "상처"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 26,
+    "question": "물곰팡이병 설명으로 옳지 않은 것은?",
+    "options": [
+      "담수어류에 잘 발생한다.",
+      "10~15도 저온에서 잘 발생한다.",
+      "변질된 사료 시 잘 발생한다.",
+      "20~25도 이상의 고온에서 잘 발생한다.",
+      ""
+    ],
+    "answer": 4
+  },
+  {
+    "id": 27,
+    "question": "Saprolegnia paracitica 의 감염조건이 아닌 것은?",
+    "options": [
+      "27도 이상의 수온",
+      "상처",
+      "쇠약·변온",
+      "영양장해",
+      "2차적 세균감염"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 28,
+    "question": "물곰팡이병의 1차적 원인이 아닌 것은?",
+    "options": [
+      "몸 표면 염증·외상",
+      "기생충의 기생",
+      "조기 치어 방양",
+      "변질된 사료",
+      "어체 쇠약"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 29,
+    "question": "물곰팡이병의 증상으로 맞는 것은?",
+    "options": [
+      "운동력 활발",
+      "식욕왕성",
+      "창자에서 많이 발생",
+      "식욕감퇴",
+      ""
+    ],
+    "answer": 4
+  },
+  {
+    "id": 30,
+    "question": "물곰팡이병의 치료·대책으로 옳은 것은?",
+    "options": [
+      "0.2ppm 마소텐",
+      "2ppm 포르말린 약욕",
+      "3ppm 테트라사이클린 약욕",
+      "5ppm 메틸렌블루",
+      ""
+    ],
+    "answer": 4
+  },
+  {
+    "id": 31,
+    "question": "원형수조(지름 8m, 수심 1m)에서 메틸렌블루 5ppm 약욕 시 필요한 약제량은?",
+    "options": [
+      "",
+      "251.2g",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "id": 32,
+    "question": "전복 곰팡이병 설명으로 바른 것은?",
+    "options": [
+      "감염부위 검게 변함",
+      "연체부 궤양",
+      "포르말린 10ppm 살포",
+      "근육 위축",
+      "2분열로 증식"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 33,
+    "question": "Fusarium 감염 새우에서 호흡곤란의 원인은?",
+    "options": [
+      "아가미 상피 증생",
+      "아가미 뚜껑 출혈",
+      "아가미 염류세포 증가",
+      "눈 궤양",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "id": 34,
+    "question": "새우 진균병 원인 Fusarium의 배지 배양 조건은?",
+    "options": [
+      "blood 배지, 35℃",
+      "SS배지 흰색 집락",
+      "25℃ 5일 배양",
+      "EIA배지 노란 솜모양",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "id": 35,
+    "question": "송어 치어의 내장진균증 설명으로 옳지 않은 것은?",
+    "options": [
+      "성장하면 감염도 감소",
+      "병어 체색 흑화",
+      "균사가 근섬유 침입",
+      "내장에 균사체가 기생하지 않는다.",
+      "복부·위 팽창"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 36,
+    "question": "점액포자충의 포자구성이 아닌 것은?",
+    "options": [
+      "polar capsule",
+      "conoid",
+      "sproplasm",
+      "shell valve",
+      "polar filament"
+    ],
+    "answer": 2
+  }
+]

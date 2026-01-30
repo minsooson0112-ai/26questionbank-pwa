@@ -1,0 +1,2214 @@
+[
+  {
+    "id": 1,
+    "question": "기생충 감염으로 혈액 도말 시 증가하는 것은?",
+    "options": ["호중구", "호염기구", "", "호산구", ""],
+    "answer": 4
+  },
+  {
+    "id": 2,
+    "question": "킬로도넬라(Chilodonella), 트리코디나(Trichodina), 닻벌레 등을 무엇이라 하는가?",
+    "options": ["어체", "점액 세균", "기생충", "감염", "월동기"],
+    "answer": 3
+  },
+  {
+    "id": 3,
+    "question": "원생동물에 의한 어류의 질병에 해당되는 것은?",
+    "options": ["아가미점액포자충증", "에드워드병", "비브리오병", "슈도모나스병", "철사충병"],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "기생충성 중생동물 중 분류학적 위치가 다른 것은?",
+    "options": ["Monogenea", "Digenea", "Cestoda", "Nematoda", ""],
+    "answer": 4
+  },
+  {
+    "id": 5,
+    "question": "미꾸라지나 메기 등 담수어를 생식 시 감염되지만 성충이 되지 않은 채 인체 내를 돌아다니는 기생충은?",
+    "options": ["조충", "구두충", "악구충", "요충", ""],
+    "answer": 3
+  },
+  {
+    "id": 6,
+    "question": "기생충성 질병 설명 중 틀린 것은?",
+    "options": [
+      "Metagonimus metacercaria는 담수어류에 흑점병을 일으킨다.",
+      "Diplostomum metacercaria는 무지개송어에 백내장증을 일으킨다.",
+      "Galactostomum metacercaria는 방어에 선회병을 일으킨다.",
+      "Gnathostoma 종숙주는 잉어·가물치 등이다.",
+      ""
+    ],
+    "answer": 4
+  },
+  {
+    "id": 7,
+    "question": "다음 중 굴에 기생하는 포자충은?",
+    "options": ["", "MSX (Minchinia nelson)", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 8,
+    "question": "백합의 gonad·바지락에 기생하며, 생체가 붉게 되는 흡충류는?",
+    "options": ["", "Bacciner harengular", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 9,
+    "question": "oyster gonad에 기생하여 황색 변화를 일으키는 질병은?",
+    "options": ["", "", "", "Amoeba disease", ""],
+    "answer": 4
+  },
+  {
+    "id": 10,
+    "question": "민몰조개 유생이 어류 아가미에 기생하는 것은?",
+    "options": ["", "Glochidium", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 11,
+    "question": "담수에만 주로 기생하는 기생충이 아닌 것은?",
+    "options": [
+      "Heteraxine heterocerca",
+      "Chilodonella cyprini",
+      "Ichthyophthirius multifilis",
+      "Argulus japonicus",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "자웅동체인 기생충으로만 짝지어진 것은?",
+    "options": [
+      "선충·조충·구두충",
+      "선충·단생흡충·이생흡충",
+      "단생흡충·이생흡충·조충",
+      "단생흡충·이생흡충·구두충",
+      "단생흡충·선충·조충"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13,
+    "question": "다음 중 어류에 다량 기생 시 가장 치명적인 것은?",
+    "options": [
+      "Philometrides cyprini",
+      "Argulus japonicus",
+      "Lernaea cyprinacea",
+      "Pleistophora anguilarum",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "id": 14,
+    "question": "다음의 원충성 질병 중 편모충에 의한 것이 아닌 것은?",
+    "options": ["아밀로오디늄증", "익티오보도병", "킬로도넬라병", "헥사미타병", "크립토비아병"],
+    "answer": 3
+  },
+  {
+    "id": 15,
+    "question": "넙치(10~15g)의 아가미에서 위족 운동하는 단세포층이 관찰되었다. 이 기생충은?",
+    "options": ["아가미포자충", "아메바충", "Tricophyra", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 16,
+    "question": "다음 중 아메바충은?",
+    "options": ["Cryptocaryon irritans", "Ichthyobodo necator", "Scutica", "Trichodina", "Paramoeba"],
+    "answer": 5
+  },
+  {
+    "id": 17,
+    "question": "Paramoeba충이라 진단할 수 있는 특징은?",
+    "options": [
+      "위족과 parasome의 유무",
+      "위족과 충체의 크기",
+      "핵의 크기와 위치",
+      "긴 편모와 세포구 모양",
+      "Parasome의 모양과 크기"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "question": "Paramoeba의 코필로포디드가 감염되는 어류는?",
+    "options": ["뱀장어", "비단잉어", "자주복", "넙치", "은어"],
+    "answer": 4
+  },
+  {
+    "id": 19,
+    "question": "코필로포디드 감염 시 어류에서 나타나는 증상은?",
+    "options": ["아가미빈혈", "", "", "", "호흡장애"],
+    "answer": 5
+  },
+  {
+    "id": 20,
+    "question": "아메바충의 주 기생부위는?",
+    "options": ["뇌", "신장", "비장", "간", "아가미"],
+    "answer": 5
+  },
+  {
+    "id": 21,
+    "question": "넙치 아메바충 감염 시 나타나는 증상은?",
+    "options": [
+      "아가미 상피세포로 침입",
+      "위족이 상피세포를 자극하여 호흡세포 방류",
+      "호흡 시 아가미 부착 먹이를 섭취",
+      "독성물질 분비로 아가미 호흡세포 파괴",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "id": 22,
+    "question": "넙치 치어 아메바충 예방법은?",
+    "options": [
+      "2일마다 포르말린 10분 약욕",
+      "마소텐",
+      "말라카이트그린 2ppm 1시간 약욕",
+      "환수량 증가·밀식피함·바닥청소",
+      "적정밀도·5일마다 물갈이·살충살균제 혼합약욕"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 23,
+    "question": "10~15g 어류 아가미 내에서 위족운동을 하는 것은?",
+    "options": ["", "", "", "Amoeba", ""],
+    "answer": 4
+  },
+  {
+    "id": 24,
+    "question": "넙치에 호흡장애를 일으키고 위족 운동하는 기생충은?",
+    "options": ["", "", "아메바 (Amoeba)", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 25,
+    "question": "아밀로오디늄병의 증상으로 맞지 않는 것은?",
+    "options": [
+      "몸을 양식장 벽에 비빈다",
+      "아가미에 염증",
+      "호흡 증가",
+      "식욕부진",
+      "복부 팽만"
+    ],
+    "answer": 5
+  },
+  {
+    "id": 26,
+    "question": "어류 기생 편모충 중 체내 기생하는 것은?",
+    "options": ["", "", "", "", "트리파노소마"],
+    "answer": 5
+  },
+  {
+    "id": 27,
+    "question": "아밀로오디늄 오셀라튬 설명 중 틀린 것은?",
+    "options": [
+      "영양체는 떨어져 저질에 붙어 주머니 형성",
+      "영양체는 피낭체가 되어 유주자 형성",
+      "수온 증가 시 생활사 기간이 길어진다",
+      "7~30도·염분 7~31‰에서 생존",
+      "적온은 수온 25~30도, 염분 14~31‰"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 28,
+    "question": "연어과 어류에 기생하여 아가미 혈관폐쇄증을 일으키는 기생충은?",
+    "options": [
+      "트리포노소마 살모니시티카",
+      "트리파노소마 시프리니",
+      "에이메리아",
+      "글루게아",
+      "이크티오보도 네카타"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 29,
+    "question": "트리파노소마 시프리니 감염 시 나타나지 않는 병증은?",
+    "options": ["성장둔화", "모세혈관폐쇄", "빈혈", "슬리핑 씨피러스", "장염"],
+    "answer": 5
+  },
+  {
+    "id": 30,
+    "question": "편모충성 질병 중 혈액에 기생하는 것으로 짝지어진 것은?",
+    "options": [
+      "Tripanosoma, Miamiensis",
+      "Tripanosoma, Cryptobia",
+      "Tetrahymena, Tripanosoma",
+      "Miamiensis, Cryptobia",
+      "Tetarhymena, Miamiensis"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 31,
+    "question": "연어과어류에 기생하는 충으로, 아가미 혈관폐쇄증을 일으킨다. 수종으로 변하여 결국 폐사시키는 기생충은?",
+    "options": [
+      "트리파노소마 살모니시티카",
+      "트리파노소마 시프리니",
+      "에이메리아",
+      "글루게아",
+      "익티오보도 네카다"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 32,
+    "question": "어류 기생 편모충 중 연어과어류의 혈액에 기생하는 편모충은?",
+    "options": [
+      "트리파노소마 브레리",
+      "익티오보도 네카티",
+      "크립토비아 살모니시티카",
+      "크립토비아 그린차이리스",
+      "아밀로디늄 오셀라튬"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 33,
+    "question": "다음에서 설명하는 기생충은 무엇인가? *해수어와 담수어 모두에 기생한다. *점액이 지나치게 분비된다. *감염어가 물체에 몸을 비빈다. *삼투압 조절기능 약화 및 식욕부진.",
+    "options": ["", "", "", "Ichthyobodo", ""],
+    "answer": 4
+  },
+  {
+    "id": 34,
+    "question": "이 기생충은 담수에서 감염된 연어 치어가 해수에 나가도 살아 기생하며 삼투압 조절을 방해한다. 발생 질병은?",
+    "options": ["헥사미타병", "백점병", "아밀로오디늄병", "브루클리넬라병", "익티오보도병"],
+    "answer": 5
+  },
+  {
+    "id": 35,
+    "question": "다음 중 해산어·담수어 모두에 기생하며 삼투조절 장애를 일으키는 기생충은?",
+    "options": ["Kudoa", "Ichthyobodo", "Hexamita", "Oodinium", "Amoeba"],
+    "answer": 2
+  },
+  {
+    "id": 36,
+    "question": "편모충 중 부착판으로 숙주 상피에 박혀 영양을 섭취하며 상피세포 괴사를 유발하는 기생충은?",
+    "options": [
+      "크립토비아",
+      "익티오보도 (Ichthyobodo necator)",
+      "트리코디나",
+      "킬로도넬라",
+      "헥사미타"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 37,
+    "question": "Oodinium 또는 Ichthyobodo의 증상은?",
+    "options": ["아가미변형", "삼투조절장애", "세포혼탁·종창", "선회운동", "탈장"],
+    "answer": 2
+  },
+  {
+    "id": 38,
+    "question": "Oodinium이 어류에 기생 시 어떤 피해를 주는가?",
+    "options": [
+      "표피 기생 자극",
+      "표피 기생 점액 분비",
+      "아가미상피 기생 점액 과다",
+      "아가미세포 붕괴",
+      ""
+    ],
+    "answer": 4
+  },
+  {
+    "id": 39,
+    "question": "연어과어류에 기생하는 Hexamita salmonis는 어느 장기에 기생하는가?",
+    "options": ["간", "비장", "신장", "뇌", "유문수"],
+    "answer": 5
+  },
+  {
+    "id": 40,
+    "question": "Hexamita salmonis 편모충이 대량 번식하는 원인은?",
+    "options": ["고수온", "고밀도", "변질사료", "세균감염", "비타민A 결핍"],
+    "answer": 3
+  },
+  {
+    "id": 41,
+    "question": "이른 봄 담수어에 피해를 주는 킬로도넬라의 번식조건은?",
+    "options": ["저수온·고밀도", "피부상처", "과식", "비타민 결핍", ""],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "전 세계 온수역에 기생하는 킬로도넬라 설명 중 틀린 것은?",
+    "options": [
+      "종 특이성이 강해 잉어·송어류에만 감염",
+      "5~20도 서식·5~10도 적온",
+      "",
+      "체표염증·괴사",
+      "백운증상"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 43,
+    "question": "gill·skin·fin 상피 하층에 기생하며 혈중 Na+, Mg2+ 감소시키는 원충류는?",
+    "options": [
+      "해산어백점충",
+      "뱀장어미포자충",
+      "담수어 Chilodonella",
+      "해산어 Costicola",
+      "담수어 Trichodina"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 44,
+    "question": "담수백점충과 해산백점충 설명 중 아닌 것은?",
+    "options": [
+      "담수백점충 전신 섬모, 해산백점충 윗부분 섬모만",
+      "담수백점 15~18도",
+      "해산백점 30도 적온",
+      "담수백점 기생 시 숙주 면역 획득",
+      "둘 다 아가미·체표 기생"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 45,
+    "question": "담수 백점충의 올바른 생활사는?",
+    "options": [
+      "theront → tomont → trophont → tomite",
+      "tomite → trophont → tomont → theront",
+      "theront → trophont → tomont → tomite",
+      "tomont → trophont → theront → tomite",
+      "theront → trophont → tomite → tomont"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 46,
+    "question": "백점충 감염 증상이 아닌 것은?",
+    "options": [
+      "안구백탁·돌출",
+      "물체 비비기",
+      "점액분비 증가",
+      "체표 궤양",
+      "호흡곤란"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 47,
+    "question": "백점충병 증상 중 잘못된 것은?",
+    "options": [
+      "체표·두부·지느러미·아가미 1mm 이하 백점",
+      "기생 부위 조직 파괴",
+      "아가미 점액과다·상피증생·붕괴",
+      "안구 기생 시 체표 기생과 동일 증상 없음",
+      ""
+    ],
+    "answer": 4
+  },
+  {
+    "id": 48,
+    "question": "담수 백점충 번식에 영향을 주는 요인은?",
+    "options": ["용존산소", "영양염류", "온도", "염도", "탁도"],
+    "answer": 3
+  },
+  {
+    "id": 49,
+    "question": "무지개송어 지느러미의 타원형 백점 기생 가능성이 가장 큰 것?",
+    "options": ["믹소볼루스", "아르굴러스", "네오디플로스토뮴", "이크티오프티리어스", ""],
+    "answer": 4
+  },
+  {
+    "id": 50,
+    "question": "백점충 치료를 위해 약제에 가장 민감한 생활사 단계는?",
+    "options": ["theront", "trophont", "tomont", "tomite", ""],
+    "answer": 1
+  },
+  {
+    "id": 51,
+    "question": "넙치에 발병하여 궤양 및 장기 침투로 치사율 높은 질병은?",
+    "options": [
+      "에피스틸리스병",
+      "해수어백점병",
+      "스쿠티카증",
+      "브루클리넬라병",
+      "글루게아병"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 52,
+    "question": "스쿠티카충 감염 넙치 증상·대책 중 틀린 것은?",
+    "options": [
+      "섭이불량·흑화·중층유영",
+      "체표·지느러미기부·입·아가미의 발적",
+      "뇌·심장에는 침입하지 않는다",
+      "포르말린 100~150ppm 1시간 약욕 유효",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "id": 53,
+    "question": "스쿠티카증 설명 중 맞지 않는 것은?",
+    "options": [
+      "뇌 포함 모든 장기 침투",
+      "해수 자유생활 섬모충",
+      "침입자충~피낭자충 복잡 생활사",
+      "근육 기생 시 궤양·출혈",
+      "외부 이상 없어도 뇌 중감염"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 54,
+    "question": "기생성 원생동물 중 섬모충은?",
+    "options": ["트리코디나", "장포자충", "아가미점액포자충", "믹시듐충", "플레이스트포라충"],
+    "answer": 1
+  },
+  {
+    "id": 55,
+    "question": "밀짚모양이며 치상체가 배면에 있는 원충은?",
+    "options": [
+      "Chilodonella piscicola",
+      "Ichthyophthirius multifilis",
+      "Miamiensis avidus",
+      "Trichodina",
+      "Tetrahymena"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 56,
+    "question": "밀짚모자 모양 섬모충, 점액과다·호흡곤란 유발 기생충은?",
+    "options": [
+      "백점충",
+      "킬로도넬라충",
+      "에피스틸리스충",
+      "브루클리넬라충",
+      "트리코디나충"
+    ],
+    "answer": 5
+  },
+  {
+    "id": 57,
+    "question": "Trichodina 설명 중 옳지 않은 것은?",
+    "options": [
+      "말굽형 대핵·2분법 분열",
+      "이탈 상태에서도 수시간~수일 생존",
+      "박테리아 먹다가 host 상피 먹기도 함",
+      "중감염은 주로 2차 감염으로 폐사",
+      "척추만곡 현상 발생"
+    ],
+    "answer": 5
+  },
+  {
+    "id": 58,
+    "question": "다음 중 미포자충 설명 중 틀린 것은?",
+    "options": [
+      "성숙포자 직접감염",
+      "체내에서 merogony·sporogony",
+      "polar cap은 PAS stain 음성",
+      "sporoplasm은 polar tube 배출",
+      "세포 내 기생"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 59,
+    "question": "어류 감염 시 제노마 형성하는 기생충은?",
+    "options": [
+      "플레이스토포라",
+      "세라토믹사",
+      "킬로도넬라",
+      "글루게아",
+      "트리코디나"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 60,
+    "question": "무지개송어 사육 중 Pin 모양으로 야위고 신장·근육에 백색반점이 보이는 질병의 원인 기생충은?",
+    "options": ["백점충", "노카르디아", "노세마", "쿠도아", "킬로도넬라"],
+    "answer": 3
+  },
+  {
+    "id": 61,
+    "question": "뱀장어 몸통 부분에 울퉁불퉁한 형상을 띠고 내부에 백색덩어리에서 포자충이 발견되었다. 이 포자충은?",
+    "options": ["믹소보루스", "믹시듐", "마이크르스포리늄 셀레욜라", "프리스토포라 안길라륨", "글로리아 플레코글로스"],
+    "answer": 4
+  },
+  {
+    "id": 62,
+    "question": "뱀장어의 플레이스토포라병 증상으로 옳은 것은?",
+    "options": [
+      "복강 및 내부장기에 쌀알 같은 제노마 형성",
+      "몸 표면 울퉁불퉁",
+      "꼬리지느러미 흑화",
+      "장관 내 혹 발생",
+      "심한 궤양 형성"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 63,
+    "question": "미포자충 감염으로 뱀장어에 요철증이 보이고 절단 시 흰색 액체가 흐른다. 어떤 검사를 해야 하는가?",
+    "options": ["세균배양", "슬라이드 검경", "", "진균배양", ""],
+    "answer": 2
+  },
+  {
+    "id": 64,
+    "question": "최근 점액포자충성 감염의 새로운 생활사에서 방선포자충을 방출하는 동물은?",
+    "options": ["아가미지렁이", "소형어류", "가재", "조개류", "수서곤충"],
+    "answer": 1
+  },
+  {
+    "id": 65,
+    "question": "점액포자충 분류 기준은?",
+    "options": [
+      "포자가 1매 피각",
+      "포자가 2~6매 피각",
+      "1개의 포자원형질과 1~2 극낭",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "id": 66,
+    "question": "금붕어 부레감각 이상을 초래하는 것은?",
+    "options": ["Kudoa", "Hoferellus carassii", "Miamiensis avidus", "Tetrahymena", "Trichodina"],
+    "answer": 2
+  },
+  {
+    "id": 67,
+    "question": "가을·겨울 금붕어에서 많이 발생하는 질병은?",
+    "options": ["Miamiensis avidus", "Trichodina", "Chilodonella piscicola", "Tetracapsula", "Hoferellus carassii"],
+    "answer": 5
+  },
+  {
+    "id": 68,
+    "question": "가을·이른 봄 금붕어 양식장에서 한쪽 배가 부풀어 뜨는 원인은?",
+    "options": ["", "", "Hoferellus carassi", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 69,
+    "question": "금붕어 Hoferellus carassi 감염 시 주 감염부위는?",
+    "options": ["간", "신장", "비장", "아가미", "심장"],
+    "answer": 2
+  },
+  {
+    "id": 70,
+    "question": "늦가을~초봄 금붕어 한쪽 배가 부풀고 평형감각 상실. 이 질병은?",
+    "options": ["비브리오", "PKD", "장포자충", "곰팡이", "바이러스"],
+    "answer": 3
+  },
+  {
+    "id": 71,
+    "question": "금붕어의 신종대증(Hoferellus) 감염 예방법은?",
+    "options": [
+      "적정밀도 사육",
+      "가을철 양어지 바닥 석회 소독",
+      "양어지 바닥 빈모류 제거",
+      "포르말린 20ppm 월1회",
+      "마소텐 0.2ppm 약욕"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 72,
+    "question": "무지개송어 선회병 Myxobolus cerebralis 미부흑화 원인은?",
+    "options": [
+      "교감신경 기능 저하",
+      "지느러미 탈락",
+      "청각평형기 연골낭 침강",
+      "두부 함몰",
+      "측선 지느러미 탈락"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 73,
+    "question": "해수어 냉장·냉동 후 해빙 시 근육 액화 또는 물컹하게 만드는 기생충병은?",
+    "options": ["믹시듐병", "백점병", "플레이스트포라병", "쿠도아병", "세라토믹사병"],
+    "answer": 4
+  },
+  {
+    "id": 74,
+    "question": "Myxobolus cerebralis의 생활사로 알맞은 것은?",
+    "options": [
+      "실지렁이 → 방선포자충 배출 → 숙주섭취 → 신경계 침입",
+      "방선포자충 배출 → 실지렁이 → 숙주섭취 → 신경계 침입",
+      "", "", ""
+    ],
+    "answer": 1
+  },
+  {
+    "id": 75,
+    "question": "Kudoa의 증상으로 옳은 것은?",
+    "options": ["해수어 근육 액화", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 76,
+    "question": "무지개송어 연골·뇌·척수 기생 선회병 원인 기생충은?",
+    "options": [
+      "믹소볼루스 세레브랄리스",
+      "텔로하넬루스 키타우에이",
+      "세로토믹사",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "id": 77,
+    "question": "무지개송어 꼬리 끊어지고 빙빙 돌다가 폐사. 원인은?",
+    "options": [
+      "Tetracapsula",
+      "Chilodonella piscicola",
+      "Trichodina",
+      "Myxobolus cerebrealis",
+      "Miamiensis avidus"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 78,
+    "question": "전장 5cm 잉어 아가미에 2~5mm cyst 형성, 호흡장애. 원인은?",
+    "options": [
+      "아가미흡충",
+      "아가미포자충 (Myxobolus)",
+      "플렉시박터",
+      "칼리구스 감염",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "id": 79,
+    "question": "여름철 잉어 소화관에서 발생하는 기생충은?",
+    "options": ["믹소볼루스", "킬로도넬라", "장포자충", "쿠도아", "점액포자충"],
+    "answer": 3
+  },
+  {
+    "id": 80,
+    "question": "장포자충(Thelohanellus)이 주로 기생하는 어류는?",
+    "options": ["뱀장어", "무지개송어", "잉어", "쏘가리", "넙치"],
+    "answer": 3
+  },
+  {
+    "id": 81,
+    "question": "장에 종양을 형성하는 기생충은?",
+    "options": [
+      "Trichodina",
+      "Chilodonella piscicola",
+      "Miamiensis avidus",
+      "Hoferellus carassii",
+      "Thelohanellus kitauei"
+    ],
+    "answer": 5
+  },
+  {
+    "id": 82,
+    "question": "장에 종유를 형성하는 기생충은?",
+    "options": ["", "", "Thelohanellus kitauei", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 83,
+    "question": "냄새가 나고 장에 유백색 혹 2~3개. 장폐색 일으키는 기생충은?",
+    "options": ["믹소볼루스", "글루게아", "플리스토포라", "믹소소마", "텔로하넬루스"],
+    "answer": 5
+  },
+  {
+    "id": 84,
+    "question": "잉어 장기에 혹처럼 불룩하게 튀어나온 병변 원인은?",
+    "options": ["장포자충", "에피스틸리스충", "베네데니아충", "믹시듐충", "백점충"],
+    "answer": 1
+  },
+  {
+    "id": 85,
+    "question": "잉어 장폐색 및 악취를 유발하는 기생충은?",
+    "options": ["베네데니아충", "텔로하넬루스", "에피스틸리스충", "플리스토포라", "글루게아"],
+    "answer": 2
+  },
+  {
+    "id": 86,
+    "question": "잉어에 기생하며 간·췌장·혈관 압박으로 출혈과 빈혈을 일으키는 질병은?",
+    "options": [
+      "Ichthyophthirius multifilis",
+      "Bivaginia tai",
+      "Pseudodactylogyrus",
+      "Gyrodactylus",
+      "Thelohanellus kitauei"
+    ],
+    "answer": 5
+  },
+  {
+    "id": 87,
+    "question": "여름철 잉어 소화관 작은 혹 모양 결절 원인은?",
+    "options": [
+      "Thelohanellus kitauei",
+      "Ichthyophthirius multifilis",
+      "Pseudodactylogyrus",
+      "Gyrodactylus",
+      "Bivaginia tai"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 88,
+    "question": "아가미흡충 중 흡혈성이 아닌 것은?",
+    "options": ["닥틸로자이루스", "마이크로코타일", "헤테로보트륨", "비바기나", "헤테락신"],
+    "answer": 1
+  },
+  {
+    "id": 89,
+    "question": "흡혈성 아가미흡충증 설명 중 옳지 않은 것은?",
+    "options": [
+      "아가미 창백",
+      "프라지콴텔 경구투여로 구제",
+      "겨울철에도 감염률 높음",
+      "후방 부착기 대형 갈고리 사용",
+      "충란 필라멘트로 가두리망 부착"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 90,
+    "question": "Pseudodactylogyrus의 주된 숙주는?",
+    "options": ["뱀장어", "무지개송어", "금붕어", "잉어", "향어"],
+    "answer": 1
+  },
+  {
+    "id": 91,
+    "question": "다음의 단생흡충류 중 태생으로 번식하는 기생충은?",
+    "options": ["자이로닥틸루스", "마이크로코타일", "베네데니아", "닥틸로자이루스", "비바기나"],
+    "answer": 1
+  },
+  {
+    "id": 92,
+    "question": "Gyrodactylus에 대한 설명으로 아닌 것은?",
+    "options": [
+      "소형으로 크기는 0.3~0.8mm",
+      "2개의 분비선 존재",
+      "1쌍의 갈고리와 주변 5쌍의 작은 갈고리",
+      "숙주 특이성 존재",
+      "안점 없음"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 93,
+    "question": "잉어의 기생충성 질병 중 닥틸로자이러스의 분류적 특징과 가장 관계가 적은 것은?",
+    "options": ["안점의 위치와 크기", "고착반 갈고리 형태와 크기", "고착반 지지봉 형태", "교접기 형태와 크기", ""],
+    "answer": 1
+  },
+  {
+    "id": 94,
+    "question": "방어의 피부흡충은 무엇인가?",
+    "options": ["Gyrodactylus", "Pseudodactylogyrus", "Bivaginia tai", "Benedenia seriolae", "helohanellus kitauei"],
+    "answer": 4
+  },
+  {
+    "id": 95,
+    "question": "흡반구조를 가지는 기생충은?",
+    "options": ["Gyrodactylus", "Dactylogyrus", "Pseudodactylogyrus", "helohanellus kitauei", "Benedenia seriolae"],
+    "answer": 5
+  },
+  {
+    "id": 96,
+    "question": "Bivaginia tai의 호적숙주는?",
+    "options": ["참돔", "조피볼락", "넙치", "방어", "복어"],
+    "answer": 1
+  },
+  {
+    "id": 97,
+    "question": "Benedenia속(해수어피부흡충병)에 대한 설명 중 옳지 않은 것은?",
+    "options": [
+      "충체는 투명하여 식별 어려움",
+      "한번 부착하면 떨어지지 않는다",
+      "전단에 2개 흡반, 후단에 큰 흡반",
+      "삼각뿔 형태의 부착끈 가진 충란 배출",
+      "점액 분비·궤양·출혈 발생"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 98,
+    "question": "베네데니아충 설명으로 틀린 것은?",
+    "options": ["주로 아가미 기생", "상피세포 식해", "조밀 사육 시 잘 발생", "유생기에 섬모 존재", ""],
+    "answer": 1
+  },
+  {
+    "id": 99,
+    "question": "다음 중 이생흡충류의 생활사를 올바르게 나열한 것은?",
+    "options": [
+      "egg → sporocyst → miracidium → cercaria → metacercaria",
+      "egg → miracidium → cercaria → sporocyst → metacercaria",
+      "egg → cercaria → metacercaria → miracidium → sporocyst",
+      "egg → miracidium → sporocyst → cercaria → metacercaria",
+      "egg → miracidium → sporocyst → metacercaria → cercaria"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 100,
+    "question": "이생흡충류 생활사 중 어류에서 발견될 수 있는 단계는?",
+    "options": ["피낭애벌레", "스포로시스트", "레디아", "미라시듐", "유미애벌레"],
+    "answer": 1
+  },
+  {
+    "id": 101,
+    "question": "Digenea 생활사 중 어류에서 발견되는 단계는?",
+    "options": ["cercaria", "miracidium", "sporocyst", "redia", "metacercaria"],
+    "answer": 5
+  },
+  {
+    "id": 102,
+    "question": "디플로스토뭄(Diplostomum)의 기생부위는?",
+    "options": ["지느러미", "아가미", "눈", "뇌", "비늘"],
+    "answer": 3
+  },
+  {
+    "id": 103,
+    "question": "무지개송어 백내장 원인 Diplostomum의 제1중간숙주는?",
+    "options": ["조류", "고동류", "소형어류", "갑각류", "파충류"],
+    "answer": 2
+  },
+  {
+    "id": 104,
+    "question": "담수어 안구에 기생하여 시력 손상 유발 기생충은?",
+    "options": ["디플로스토뮴", "보트리오세팔루스", "상귀니콜라", "헤테락신", "롱기콜룸"],
+    "answer": 1
+  },
+  {
+    "id": 105,
+    "question": "방어·돌돔이 선회운동 후 폐사. Galactostomum metacercaria의 기생부위는?",
+    "options": ["아가미", "간뇌", "신장", "안구", "위벽"],
+    "answer": 2
+  },
+  {
+    "id": 106,
+    "question": "잉어·붕어에 metacercaria 기생 시 흑점병이 생기는 이유는?",
+    "options": ["멜라닌 색소세포 집합", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 107,
+    "question": "잉어·붕어 꼬리에 흑점의 원인은?",
+    "options": ["멜라닌 색소", "대식세포", "멜라닌 세포 집합", "Myxobolus 기생", ""],
+    "answer": 3
+  },
+  {
+    "id": 108,
+    "question": "조충류 life cycle에서 요각류 체내에서 생성되는 단계는?",
+    "options": ["procercoid", "coracidium", "miracidium", "oncomiracidium", "plerocercoid"],
+    "answer": 1
+  },
+  {
+    "id": 109,
+    "question": "다음 설명의 기생충은? 자웅동체, 장 기생, 탈장 유발, 소화관 없음",
+    "options": [
+      "Bothriocephalus acheilognathi",
+      "Bivaginia tai",
+      "Benedenia seriolae",
+      "Thelohanellus kitauei",
+      "Myxobolus cerebrealis"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 110,
+    "question": "잉어 장에서 길고 마디 있는 충체 발견. 무엇인가?",
+    "options": [
+      "Bivaginia tai",
+      "Benedenia seriolae",
+      "Thelohanellus kitauei",
+      "Myxobolus cerebrealis",
+      "Bothriocephalus acheilognathi"
+    ],
+    "answer": 5
+  },
+  {
+    "id": 111,
+    "question": "잉어 장 절개 시 마디 있는 충체 확인. 진단은?",
+    "options": [
+      "디플로스토뮴병",
+      "자이로닥틸루스병",
+      "흡두조충병",
+      "피부선충병",
+      "아니사키스"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 112,
+    "question": "기생성 연충류 중 선충류는?",
+    "options": ["아가미흡충", "피부흡충", "닻벌레", "물이", "철사충"],
+    "answer": 5
+  },
+  {
+    "id": 113,
+    "question": "뱀장어의 부레에 감염 일으키는 기생충은?",
+    "options": [
+      "Bothriocephalus acheilognathi",
+      "Benedenia seriolae",
+      "Thelohanellus kitauei",
+      "Anquillicola crassus",
+      "Bivaginia tai"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 114,
+    "question": "잉어 피하지방에 감염되어 흰색 괴사소 남기는 기생충은?",
+    "options": ["피부흡충", "피부선충(철사충)", "닻벌레", "물이", ""],
+    "answer": 2
+  },
+  {
+    "id": 115,
+    "question": "Acanthocephalus sp.의 구두충 유생단계 휴면형태는?",
+    "options": ["Procercoid", "Acarhor", "Acanthella", "Cystacanth", "Plerocercoid"],
+    "answer": 4
+  },
+  {
+    "id": 116,
+    "question": "Longicollum 감염 시 탈장증. 감염 숙주는?",
+    "options": ["조피볼락", "넙치", "연어", "농어", "참돔"],
+    "answer": 5
+  },
+  {
+    "id": 117,
+    "question": "Longicollum 충은 참돔의 어느 부위에 기생하는가?",
+    "options": ["위", "간", "신장", "유문수", "직장"],
+    "answer": 5
+  },
+  {
+    "id": 118,
+    "question": "참돔 장에 기생, 중감염 시 장관 폐색 및 탈장 유발 기생충은?",
+    "options": ["디플로스토뮴", "보트리오세팔루스", "상귀니콜라", "헤테락신", "롱기콜룸"],
+    "answer": 5
+  },
+  {
+    "id": 119,
+    "question": "갑각류 기생에 의한 질병이 아닌 것은?",
+    "options": ["닻벌레병", "물이병", "아가미흡충병", "칼리구스병", "에르가실루스병"],
+    "answer": 3
+  },
+  {
+    "id": 120,
+    "question": "담수어류에 피해를 주는 갑각류 기생충 중 가장 오래된 것은?",
+    "options": ["칼리구스충", "철사충", "닻벌레", "앙귈리콜라충", "백점충"],
+    "answer": 3
+  },
+  {
+    "id": 121,
+    "question": "다음 중 아가미 기생이 아닌 것은?",
+    "options": ["Alella", "Ergasilus", "Caligus", "Pseudoergasilus", "Clavella"],
+    "answer": 5
+  },
+  {
+    "id": 122,
+    "question": "담수어류에 감염되며 끝이 딱딱한 부착구조로 아가미나 지느러미에 박혀붙는 gill maggots는?",
+    "options": ["Ergasilus spp.", "Caligus spp.", "Salmincola sp.", "Argulus spp.", "Lernea spp."],
+    "answer": 3
+  },
+  {
+    "id": 123,
+    "question": "닻벌레충에 관한 설명으로 잘못된 것은?",
+    "options": [
+      "전 세계적으로 분포 넓음",
+      "수온 15도 이상에서 번식, 번식성기 7월 중순~9월 상순",
+      "봄~가을 1세대만 기생 후 겨울에 모두 폐사",
+      "수온 12도 이하에서 성장 정지·부화 안 됨",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "id": 124,
+    "question": "닻벌레병 설명으로 옳지 않은 것은?",
+    "options": [
+      "암컷은 후방에 두 줄의 긴 알주머니",
+      "수컷과 암컷 교미 후 암컷만 기생",
+      "주로 지느러미 부위 기생",
+      "치어기에는 두부가 내부장기에 뚫고 들어감",
+      "육안으로 기생 확인 가능"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 125,
+    "question": "뱀장어와 금붕어 닻벌레 기생 시 처음으로 영양섭취하는 단계는?",
+    "options": ["", "", "Copepodid 2기", "", "Copepodid 6기"],
+    "answer": 3
+  },
+  {
+    "id": 126,
+    "question": "닻벌레와 물이의 구제방법은?",
+    "options": ["포르말린 20~30ppm 영구욕", "황산동", "1% 식염수", "마소텐 0.3ppm 영구욕", "유산동"],
+    "answer": 4
+  },
+  {
+    "id": 127,
+    "question": "금붕어에 기생하는 닻벌레충을 구제하는데 가장 효과적인 약제는?",
+    "options": ["마소텐", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 128,
+    "question": "다음 중 아가미에만 기생하는 기생성 갑각류는?",
+    "options": ["", "Ergasilus", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 129,
+    "question": "다음 기생성 요각류 중 아가미에만 발생하는 질병은?",
+    "options": ["칼리구스병", "클라벨라병", "닻벌레병", "에르가실루스병", "살민콜라병"],
+    "answer": 4
+  },
+  {
+    "id": 130,
+    "question": "에르가실루스 대량감염 시 사망 원인은?",
+    "options": ["소화관폐쇄", "호흡곤란", "삼투압조절 마비", "유영곤란", ""],
+    "answer": 2
+  },
+  {
+    "id": 131,
+    "question": "Caligus 기생 시 어체에 대한 직접 피해가 아닌 것은?",
+    "options": [
+      "고착 자극·조직 식해",
+      "고착에 의한 조직 염증",
+      "상피세포 이상증식",
+      "아가미조직 이상증식",
+      "지느러미 기능상실"
+    ],
+    "answer": 5
+  },
+  {
+    "id": 132,
+    "question": "Caligus 기생 시 직접 피해는?",
+    "options": [
+      "고착 자극·조직 식해",
+      "조직 염증",
+      "상피세포 이상증식",
+      "아가미조직 이상증식",
+      "지느러미 기능상실"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 133,
+    "question": "칼리구스 감염 의심 방어. 어느 부위 관찰?",
+    "options": ["체표", "창자", "아가미", "근육", ""],
+    "answer": 3
+  },
+  {
+    "id": 134,
+    "question": "Caligus 감염 어류의 증상으로 옳은 것은?",
+    "options": [
+      "자극 및 조직 상해",
+      "조직 염증",
+      "상피세포 이상증식",
+      "아가미 이상증식",
+      "지느러미 기능상실"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 135,
+    "question": "연어과에 주로 발생, 아가미 기생 → 아가미뚜껑에 구멍, 산란수 감소 기생성 갑각류는?",
+    "options": ["에르가실루스", "살민콜라", "칼리구스", "아르굴러스", ""],
+    "answer": 2
+  },
+  {
+    "id": 136,
+    "question": "송어·연어 아가미 감염 기생성갑각류는?",
+    "options": ["Caligus", "Salmincola", "Ergasilus", "Alella", "Clavella"],
+    "answer": 2
+  },
+  {
+    "id": 137,
+    "question": "Argulus 설명으로 옳지 않은 것은?",
+    "options": [
+      "감염어는 몸을 비비거나 수면으로 뛰어오름",
+      "납작하고 둥근 원형",
+      "날카로운 침·빨대구조로 체액 흡입",
+      "항상 어류에 부착해 생활",
+      "치어는 감염 시 폐사 가능"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 138,
+    "question": "물이병 설명으로 옳지 않은 것은?",
+    "options": [
+      "아르굴루스속 기생성갑각류 질병",
+      "충체는 항상 어류에 부착해 생활",
+      "날카로운 부속지·빨대구조로 체액 흡입",
+      "마소텐 약욕 치료 가능",
+      "성숙 암컷은 충란을 벽 등에 부착"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 139,
+    "question": "Argulus 설명으로 알맞은 것은?",
+    "options": ["고기가 바닥을 문지름", "", "작은 어류는 독성으로 폐사", "부속지·빨대구조로 체액 흡입", ""],
+    "answer": 4
+  },
+  {
+    "id": 140,
+    "question": "게·가재 생식 시 사람에게 감염되는 질병은?",
+    "options": ["간디스토마", "폐디스토마", "요코가와흡충", "광절열두조충", "악구두충"],
+    "answer": 2
+  },
+  {
+    "id": 141,
+    "question": "<담수·해수 기생, 연어 해수 적응 방해, 넙치 저수온 발생> 어느 기생충?",
+    "options": ["longicollum", "dactylogyrus", "gyrodactylus", "benedenia", "ichthyobodo"],
+    "answer": 5
+  },
+  {
+    "id": 142,
+    "question": "ichthyophthirisis 설명 중 틀린 것은?",
+    "options": [
+      "I.multifilis는 말굽형 핵 1개",
+      "Cryptocaryon은 염주모양 핵 4개",
+      "해산백점병은 봄철 많고 기생기간 3일",
+      "Ichthyophthirisis는 15~18℃에 빈발",
+      "생활사에서 theront가 감염력"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 143,
+    "question": "원인체와 숙주 잘못 짝지어진 것은?",
+    "options": [
+      "Mycrocotyle sebastis - 방어",
+      "Bivagina tai - 참돔",
+      "Heterobothrium tetrodonis - 복어",
+      "Neoheterobothrium hirame - 넙치",
+      "Myxobolus cerebralis - 무지개송어"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 144,
+    "question": "Procercoid는 갑각류에 기생. 알에서 갓 깨어난 단계는?",
+    "options": ["oncomiracidium", "miracidium", "coracidium", "procercoid", "acanthor"],
+    "answer": 3
+  },
+  {
+    "id": 145,
+    "question": "지느러미·아가미·체표 지방하층 기생, 출혈·삼투압 장애, 혈중 Na·Mg 하강/K·요소 상승 기생충은?",
+    "options": ["myxobolus", "ichthyophthirisis", "chilodonella", "ichthyobodo", "trichodina"],
+    "answer": 2
+  },
+  {
+    "id": 146,
+    "question": "잉어 장 폐쇄 유발 기생충은?",
+    "options": ["kudoa", "ichthyobodo", "myxobolus", "thelohanellus", "myxidium"],
+    "answer": 4
+  },
+  {
+    "id": 147,
+    "question": "방어 아가미·근육·꼬리표피 결절, 절개 시 흰 고름. 질병은?",
+    "options": ["furunculosis", "nocardia", "BKD", "pasteurella", "columnaris"],
+    "answer": 2
+  },
+  {
+    "id": 148,
+    "question": "단생흡충 후반흡착기가 흡반 구조인 것은?",
+    "options": ["gyrodactylus", "dactylogyrus", "benedenia", "microcotyle", "diplozoon"],
+    "answer": 3
+  },
+  {
+    "id": 149,
+    "question": "선충으로 잉어 비늘 아래 기생하는 것은?",
+    "options": [
+      "philometrodies cyprinus",
+      "salomicola",
+      "philometrodies oncornhynchus",
+      "anguilliolarum",
+      "philometrodies spari"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 150,
+    "question": "Ichthyophonus병 설명 중 틀린 것은?",
+    "options": [
+      "두꺼운 세포벽 둘러싼 다핵구상체",
+      "경구투여 감염·TGC배지 배양 가능",
+      "척추만곡·안구돌출",
+      "간·비장·신장 특이적 감염",
+      "무위어에는 발병 없음"
+    ],
+    "answer": 4
+  },
+{
+  "id": 151,
+  "question": "다음 단생흡충병 중 흡혈성아가미흡충병이 감염되는 숙주가 아닌 것은?",
+  "options": [
+    "Dipolzoon – 담수어, 잉어",
+    "Bivagina tai - 참돔",
+    "Mycrocotyle sebastis - 농어",
+    "Heterobothrium tetrodones - 복어",
+    "Heterocerca – 방어"
+  ],
+  "answer": 3
+},
+{
+  "id": 152,
+  "question": "다음 중 허족운동을 하는 병원체는?",
+  "options": [
+    "Glugea",
+    "아메바충",
+    "Kudoa",
+    "",
+    ""
+  ],
+  "answer": 2
+},
+{
+  "id": 153,
+  "question": "다음 중 Myxobolus cerebralis의 중간숙주는 무엇인가?",
+  "options": [
+    "물벼룩",
+    "갑각류",
+    "물벼룩",
+    "실지렁이",
+    "다슬기"
+  ],
+  "answer": 4
+},
+{
+  "id": 154,
+  "question": "다음 중 해수와 담수 모두에서 표피와 아가미에 기생하는 기생성 갑각류는?",
+  "options": [
+    "",
+    "",
+    "Pseudoergasilusis",
+    "Caligusis",
+    "Argulusis"
+  ],
+  "answer": 3
+},
+{
+  "id": 155,
+  "question": "다음 중 Goussia carpelli가 속하는 것은?",
+  "options": [
+    "mycrospora",
+    "myxobolus",
+    "Apicomplexa",
+    "myxozoan",
+    ""
+  ],
+  "answer": 3
+},
+{
+  "id": 156,
+  "question": "다음 중 필요 시 숙주에 붙어서 혈액·체액을 빨아 먹고 다시 떠나는 기생충은?",
+  "options": [
+    "",
+    "",
+    "Ergasilusis",
+    "Caligusis",
+    "Argulusis"
+  ],
+  "answer": 5
+},
+{
+  "id": 157,
+  "question": "다음 중 감염된 패류의 심장을 분석하여 진단하는 질병은?",
+  "options": [
+    "",
+    "",
+    "Birnavirus",
+    "Perkinsus",
+    ""
+  ],
+  "answer": 4
+},
+{
+  "id": 158,
+  "question": "다음 중 Perkinsus olseni에 감염되는 패류는?",
+  "options": [
+    "가리비",
+    "바지락",
+    "전복",
+    "대합",
+    "꼬막"
+  ],
+  "answer": 2
+},
+{
+  "id": 159,
+  "question": "다음 중 김의 바늘구멍병을 일으키는 원인은?",
+  "options": [
+    "요각류",
+    "단각류",
+    "규조류",
+    "",
+    ""
+  ],
+  "answer": 1
+},
+{
+  "id": 160,
+  "question": "Diplostoma는 다음 중 어체의 어디에 기생하는가?",
+  "options": [
+    "아가미",
+    "피부",
+    "간",
+    "신장",
+    "비장"
+  ],
+  "answer": 1
+},
+{
+  "id": 161,
+  "question": "다음 중 뇌에도 기생하며 근육을 액화시키는 기생충은 무엇인가?",
+  "options": [
+    "Tricordina",
+    "Kudoa",
+    "Amoeba",
+    "Dactylogyrus",
+    "Gylodacty"
+  ],
+  "answer": 2
+},
+{
+  "id": 162,
+  "question": "중간숙주가 필요한 것은?",
+  "options": [
+    "Chilodonella piscicola",
+    "Pleistophora anguillarum",
+    "Longicollum pafrosomi",
+    "Benedenia seriolae",
+    "ichthyobodo"
+  ],
+  "answer": 3
+},
+{
+  "id": 163,
+  "question": "다음 중 Goussia carpelli가 속하는 것은?",
+  "options": [
+    "microspora",
+    "myxobolus",
+    "Apicomplexa",
+    "myxozoa",
+    "mastigophora"
+  ],
+  "answer": 3
+},
+{
+  "id": 164,
+  "question": "다음 중 원충에 대한 설명으로 옳지 않은 것은?",
+  "options": [
+    "진핵세포",
+    "원핵세포(원충류는 진핵세포를 가짐)",
+    "단세포",
+    "편모를 가진 것도 있다.",
+    "기생"
+  ],
+  "answer": 1
+},
+{
+  "id": 165,
+  "question": "인체에 피해를 주는 기생충은?",
+  "options": [
+    "",
+    "",
+    "Staphylococcus aureus",
+    "",
+    ""
+  ],
+  "answer": 3
+},
+{
+  "id": 166,
+  "question": "잉어 장 폐색을 일으키는 기생충은?",
+  "options": [
+    "Hoferellus carassii",
+    "Diplostomum sp.",
+    "Thelohanellus kitauei",
+    "Clavella",
+    "Miamiensis avibus"
+  ],
+  "answer": 3
+},
+{
+  "id": 167,
+  "question": "송어가 선회하는 병은?",
+  "options": [
+    "선회병 Myxobolus cerebralis",
+    "미포자충 Glugea",
+    "Caligusis",
+    "Tetrahymenosis",
+    "Cryotibia salmonis"
+  ],
+  "answer": 1
+},
+{
+  "id": 168,
+  "question": "자기가 필요할 때에만 숙주에 붙어서 혈액·체액을 빨아먹고 필요 없으면 다시 떠나는 충은?",
+  "options": [
+    "Lernaen cyprinacea",
+    "Ergasilusis",
+    "Argulus",
+    "Salmincola",
+    "Philometroides cyprini"
+  ],
+  "answer": 3
+},
+{
+  "id": 169,
+  "question": "Longicollum의 참돔 기생부위는 어디인가?",
+  "options": [
+    "위",
+    "유문수",
+    "직장",
+    "신장",
+    "비장"
+  ],
+  "answer": 3
+},
+{
+  "id": 170,
+  "question": "아니사키스에 관한 설명으로 아닌 것은?",
+  "options": [
+    "고래에 기생한다.",
+    "위장벽을 뚫을 수 있다.",
+    "위에서 장기간 서식할 수 있다.",
+    "-20℃, 24시간 저온저장시 죽는다.",
+    "65℃ 순간적으로 열처리하면 죽는다."
+  ],
+  "answer": 3
+},
+{
+  "id": 171,
+  "question": "흡두조충에 관련된 설명으로 틀린 것은?",
+  "options": [
+    "중간숙주가 필요하다.",
+    "소화관이 없어 체표면으로 영양분 흡수한다.",
+    "자웅이체로 암컷 수컷 생식기가 나뉘어져있다.",
+    "각 체절마다 수정 및 산란이 가능하다.",
+    "장 페색 증상이 나타난다."
+  ],
+  "answer": 3
+},
+{
+  "id": 172,
+  "question": "혈액에서 찾을 수 있는 기생충은?",
+  "options": [
+    "Amyloodinium",
+    "Salmincola",
+    "diplostomum",
+    "Gyrodactilus",
+    "Trypanosoma"
+  ],
+  "answer": 5
+},
+{
+  "id": 173,
+  "question": "백점충의 생활사 단계 중 항상제 감수성이 제일 큰 시기는?",
+  "options": [
+    "theront",
+    "trophont",
+    "tomont",
+    "protomont",
+    "tomite"
+  ],
+  "answer": 1
+},
+{
+  "id": 174,
+  "question": "해수와 담수 모두에서 기생하는 충은?",
+  "options": [
+    "Ichthyobodo",
+    "Hexamita salmonis",
+    "Scutica",
+    "Microsporidium seriolae",
+    "Myxobolus buri"
+  ],
+  "answer": 1
+},
+{
+  "id": 175,
+  "question": "피낭이 형성되는 과정 충은?",
+  "options": [
+    "칩입자충",
+    "피낭자충",
+    "피낭충",
+    "유충",
+    "유미자충"
+  ],
+  "answer": 3
+},
+{
+  "id": 176,
+  "question": "아가미에 감염되는 원충류?",
+  "options": [
+    "Hexamita salmonis",
+    "Trichodina sp.",
+    "Ichthyiophthrius multifilis",
+    "Trypanosoma",
+    "Tetrahymenosis"
+  ],
+  "answer": 2
+},
+{
+  "id": 177,
+  "question": "뱀장어 등여윔병에 대한 설명으로 틀린 것은?",
+  "options": [
+    "부검 시 백색덩어리에서 포자충이 발견된다.",
+    "근육에 기생한다.",
+    "진핵세포 소기관을 가진다.",
+    "중간숙주가 필요없다.",
+    "수온이 15℃ 이상일 때 발병한다."
+  ],
+  "answer": 3
+},
+{
+  "id": 178,
+  "question": "패류 brown ring disease에 관한 증상으로 알맞은 것은?",
+  "options": [
+    "",
+    "패각근이 괴사한다.",
+    "패각의 안쪽에 있는 외투선과 패각의 바깥쪽 사이에 갈색의 침전물인 conchilin이 침착한다.",
+    "",
+    ""
+  ],
+  "answer": 3
+},
+{
+  "id": 179,
+  "question": "감염에 실지렁이가 필요한 충은?",
+  "options": [
+    "Icthyobodo necator",
+    "Philometroides cyprini",
+    "Caligusis",
+    "Chilodonella piscicola",
+    "myxobolus cerebralis"
+  ],
+  "answer": 5
+},
+{
+  "id": 180,
+  "question": "스쿠티카증에 대한 설명으로 틀린 것은?",
+  "options": [
+    "몸 표면과 아가미 뿐만 아니라 뇌를 포함한 모든 내부장기에 침투하여 기생한다",
+    "스쿠티카충은 본래 해수 중에서 세균 등을 먹고사는 자유 생활 섬모충이다",
+    "침입자충에서 피낭자충에 이르는 복잡한 생활사를 가지고 있다",
+    "몸 표면 근육에 기생할 때에는 커다란 궤양이 형성되어 출혈 등의 증상이 나타난다",
+    "외부 이상이 없음에도 불구하고 뇌에 심하게 감염되는 있는 경우가 있다."
+  ],
+  "answer": 3
+},
+{
+  "id": 181,
+  "question": "다음 중 거머리가 아가미에 기생하여 새엽이 까맣게 보이는 이유로 알맞은 것은?",
+  "options": [
+    "충란의 밀도",
+    "혈액성상에 변화가 생겨서",
+    "새엽의 말단부위 괴사",
+    "새엽에 이물질이 많아서",
+    ""
+  ],
+  "answer": 3
+},
+{
+  "id": 182,
+  "question": "다음 중 기생충 감염으로 인해 혈액 도말 시 증가하는 것은?",
+  "options": [
+    "호중구",
+    "호염기구",
+    "호산구",
+    "단핵구",
+    ""
+  ],
+  "answer": 3
+},
+{
+  "id": 183,
+  "question": "광절열두조충은 마지막에는 사람에 기생한다. 광절열두조충의 생활사로 옳은 것은?",
+  "options": [
+    "다슬기-갑각류-위",
+    "다슬기-어류-간",
+    "다슬기-어류-위",
+    "물벼룩-어류-장",
+    "물벼룩-어류-간"
+  ],
+  "answer": 4
+},
+{
+  "id": 184,
+  "question": "다음 중 잉어에서 장 폐색을 일으키는 기생충은?",
+  "options": [
+    "Hoferellus carassii",
+    "Diplostomum",
+    "Clavella",
+    "Miamiensis avidus",
+    "Thelohanellus kitauei"
+  ],
+  "answer": 5
+},
+{
+  "id": 185,
+  "question": "다음 중 자웅동체로 장에 기생하여 탈장을 일으키며 몸에는 소화관 구조가 없어 몸 표면을 통해 숙주로부터 영양분을 흡수하는 기생충은?",
+  "options": [
+    "Bivagina tai",
+    "Benedenia seriolae",
+    "Thelohanellus kitauei",
+    "Myxobolus cerebralis",
+    "Bothriocephalus acheilognathi"
+  ],
+  "answer": 5
+},
+{
+  "id": 186,
+  "question": "다음 중 생활사 중 코페포디드를 거치는 기생충은?",
+  "options": [
+    "Argulus",
+    "Caligus",
+    "Salmincola",
+    "Lernaea",
+    "Ergasilus"
+  ],
+  "answer": 4
+},
+{
+  "id": 187,
+  "question": "다음 중 닻벌레 생활사에 대한 설명으로 옳은 것은?",
+  "options": [
+    "",
+    "",
+    "알에서 깨어나자마자 어체에 기생해 영양섭취를 한다.",
+    "코페포디드 1기에 어체에 기생해 영양섭취를 한다.",
+    "코페포디드 2기에 어체에 기생해 영양섭취를 한다."
+  ],
+  "answer": 5
+},
+{
+  "id": 188,
+  "question": "다음 중 갑각류 기생에 의한 질병이 아닌 것은?",
+  "options": [
+    "물이병",
+    "닻벌레병",
+    "칼리구스병",
+    "아가미흡충병",
+    "에르가실루스병"
+  ],
+  "answer": 4
+},
+{
+  "id": 189,
+  "question": "다음 중 넙치 치어의 아메바증 예방법은?",
+  "options": [
+    "2일마다 포르말린에 10분간 약욕",
+    "마소텐 사용",
+    "매일 말라카이트그린 2ppm 1시간 약욕",
+    "환수량을 늘리고 밀식을 피하며 수조의 바닥을 청소한다.",
+    "적정밀도 수용, 5일마다 물갈이, 살충·살균제를 섞어 약욕"
+  ],
+  "answer": 4
+},
+{
+  "id": 190,
+  "question": "다음 중 아메바의 본래 형상으로 알맞은 것은?",
+  "options": [
+    "삼각형",
+    "별모양",
+    "공모양",
+    "",
+    ""
+  ],
+  "answer": 3
+},
+{
+  "id": 191,
+  "question": "다음 중 Oodinium와 Ichthyobodo의 공통적인 증상으로 알맞은 것은?",
+  "options": [
+    "아가미변형",
+    "세포혼탁·종창",
+    "선회운동",
+    "탈장",
+    "삼투조절장애"
+  ],
+  "answer": 5
+},
+{
+  "id": 192,
+  "question": "다음 중 담수어와 해산어 모두에 기생하는 기생충은?",
+  "options": [
+    "Scutica",
+    "Hexamita salmonis",
+    "Ichthyobodo",
+    "Myxobolus buri",
+    "Microsporidium seriolae"
+  ],
+  "answer": 3
+},
+{
+  "id": 193,
+  "question": "다음 중 Hexamita salmonis 편모충이 대량번식하는 원인으로 알맞은 것은?",
+  "options": [
+    "고수온",
+    "고밀도",
+    "세균감염",
+    "비타민 A결핍",
+    "변질사료"
+  ],
+  "answer": 5
+},
+{
+  "id": 194,
+  "question": "다음 중 어류에 기생하는 편모충 중 외부에 기생하지 않고 내부에만 기생하는 기생충은 무엇인가?",
+  "options": [
+    "Amyloodinium",
+    "Ichthyobodo",
+    "Trypanosoma",
+    "Hexamita",
+    ""
+  ],
+  "answer": 4
+},
+{
+  "id": 195,
+  "question": "다음 중 백점충에 대한 설명으로 옳은 것은?",
+  "options": [
+    "저수온일수록 잘 감염된다.",
+    "핵은 말발굽 모양이며 2개 가지고 있다.",
+    "theront가 감염력이 있다.",
+    "",
+    ""
+  ],
+  "answer": 3
+},
+{
+  "id": 196,
+  "question": "다음 중 킬로도넬라에 대한 설명으로 틀린 것은?",
+  "options": [
+    "종 특이성이 매우 강해 잉어, 송어류에만 감염된다.",
+    "5~20℃에서 서식하나 5~10℃가 적온이다.",
+    "체표염증, 괴사가 나타난다.",
+    "백운증상이 나타난다.",
+    ""
+  ],
+  "answer": 1
+},
+{
+  "id": 197,
+  "question": "다음 중 복면에 환상의 치설 구조가 있으며 점액과다분비와 호흡곤란을 일으키는 섬모충은 무엇인가?",
+  "options": [
+    "킬로도넬라",
+    "스쿠티카",
+    "에피스틸러스",
+    "브루클리넬라",
+    "트리코디나"
+  ],
+  "answer": 5
+},
+{
+  "id": 198,
+  "question": "다음 중 트리코디나에 대한 설명으로 틀린 것은?",
+  "options": [
+    "말굽형의 대핵을 가지며 2분법으로 분열 및 증식한다.",
+    "어체에서 이탈된 상태에서도 수 시간에서 수 일 생존할 수 있다.",
+    "보통 때에는 박테리아나 유기물을 먹고 살다가 어류의 건강상태가 나빠지면 숙주의 상피세포를 갉아먹는다.",
+    "주로 2차 감염으로 폐사가 일어난다.",
+    "척추만곡현상이 일어난다."
+  ],
+  "answer": 3
+},
+{
+  "id": 199,
+  "question": "다음 중 뇌까지 감염을 일으켜 치명적인 기생충은?",
+  "options": [
+    "글루게아",
+    "트리코디나",
+    "플레이스토포라",
+    "미포자충",
+    "스쿠티카"
+  ],
+  "answer": 5
+},
+{
+  "id": 200,
+  "question": "다음 중 스쿠티카증에 대한 설명으로 옳지 않은 것은?",
+  "options": [
+    "몸 표면과 아가미뿐만 아니라 뇌를 포함한 모든 내부장기까지 침투하여 기생한다.",
+    "스쿠티카충은 본래 해수 중에서 세균 등을 먹고사는 자유 생활 섬모충이다.",
+    "침입자충에서 피낭자충에 이르는 복잡한 생활사를 가지고 있다.",
+    "몸 표면의 근육에 기생할 때에는 커다란 궤양이 형성되어 출혈 등의 증상이 나타난다.",
+    "외부 이상이 없음에도 불구하고 뇌에 심하게 감염되어있는 경우가 있다."
+  ],
+  "answer": 3
+},
+{
+  "id": 201,
+  "question": "다음 중 미포자충에 대한 설명으로 옳지 않은 것은?",
+  "options": [
+    "성숙포자를 통해 중간숙주 없이 직접 감염된다.",
+    "어체 내에서 생활사 merogony와 sporogony를 거친다.",
+    "성숙포자 전단부의 polar cap은 PAS stain 시 음성이다.",
+    "포자 내 sporoplasm은 polar tube를 방출한다.",
+    "세포 내 기생한다."
+  ],
+  "answer": 3
+},
+{
+  "id": 202,
+  "question": "다음 중 뱀장어 몸통부분에 울퉁불퉁한 형상을 띠는 병어가 가끔 나타난다. 부검하면 많은 수의 백색덩어리에서 포자충이 발견되는데, 이 포자충은 무엇인가?",
+  "options": [
+    "Amyloodinium",
+    "Heterosporis anguillarum",
+    "Glugea",
+    "diplostomum",
+    "Trypanosoma"
+  ],
+  "answer": 2
+},
+{
+  "id": 203,
+  "question": "다음 중 종숙주와 적절하게 연결되어 있지 않은 종은?",
+  "options": [
+    "Eudiplozoon - 잉어",
+    "Microcotyle sebastis - 농어",
+    "Benedenia seriolae - 방어",
+    "Heteraxine heterocerca - 방어",
+    "Heterobothrium tetrodonis- 복어"
+  ],
+  "answer": 2
+},
+{
+  "id": 204,
+  "question": "다음 중 Bivagina tai의 숙주로 알맞은 것은?",
+  "options": [
+    "참돔",
+    "조피볼락",
+    "넙치",
+    "방어",
+    "복어"
+  ],
+  "answer": 1
+},
+{
+  "id": 205,
+  "question": "다음 중 Bivagina tai의 감염 부위는?",
+  "options": [
+    "위",
+    "신장",
+    "비장",
+    "직장",
+    "아가미"
+  ],
+  "answer": 5
+},
+{
+  "id": 206,
+  "question": "다음 중 무지개송어의 자·치어의 연골조직과 뇌, 척수 등의 중추신경계에 기생하여 선회병을 일으키는 기생충은?",
+  "options": [
+    "믹소볼루스 세레브랄리스",
+    "텔로하넬루스 키타우에이",
+    "플레이스토포라 앙귈라룸",
+    "세로토믹사",
+    ""
+  ],
+  "answer": 1
+},
+{
+  "id": 207,
+  "question": "무지개송어의 선회병은 Myxobolus cerebralis가 연골조직에 감염되어 발생한다. 다음 중 미부흑화의 원인으로 알맞은 것은?",
+  "options": [
+    "지느러미의 탈락",
+    "교감신경기능의 저하",
+    "두개골 내의 청각 평형기를 둘러싼 연골낭의 침강",
+    "안구와 두부의 함몰로 시각기능 상실",
+    "측선부위의 지느러미 탈락"
+  ],
+  "answer": 2
+},
+{
+  "id": 208,
+  "question": "다음 중 어류에 감염 시 제노마 증상을 일으키는 질병은?",
+  "options": [
+    "플레이스토포라",
+    "트리파노소마",
+    "브루클리넬라",
+    "글루게아",
+    "스쿠티카"
+  ],
+  "answer": 4
+},
+{
+  "id": 209,
+  "question": "다음 중 해산어의 근육을 액화시키는 기생충은?",
+  "options": [
+    "쿠도아",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "answer": 1
+},
+{
+  "id": 210,
+  "question": "원충에 대한 설명으로 옳지 않은 것은?",
+  "options": [
+    "핵과 세포질이 나누어지지 않았다.",
+    "단세포이다.",
+    "진핵이다.",
+    "편모로 운동성을 가진다.",
+    ""
+  ],
+  "answer": 3
+},
+{
+  "id": 211,
+  "question": "섬모열이 오른쪽에 8~11개, 왼쪽에 12~13개 있는 기생충은?",
+  "options": [
+    "",
+    "",
+    "",
+    "",
+    "Chilodonella"
+  ],
+  "answer": 5
+},
+{
+  "id": 212,
+  "question": "아밀로오디늄 오셀라튬의 형태와 생활사 설명 중 틀린 것은?",
+  "options": [
+    "성숙한 영양체는 어체로부터 떨어져 양식장 저질이나 기부에 붙어 새로운 주머니를 형성한다.",
+    "어체로부터 떨어져 나온 영양체는 수분 내로 주머니를 형성하여 물질을 분비하는 피낭체가 되어 유주자를 형성한다.",
+    "수온이 올라갈수록 생활사가 완성하는 데 걸리는 기간이 길어진다. 발병율은 수온이 낮을수록 높아진다.",
+    "매우 넓은 범위의 수온 7~30도와 염분농도 7~31‰에서도 생존할 수 있다.",
+    "발생최적조건은 수온 25~30도 및 염분농도 14~31‰이다."
+  ],
+  "answer": 3
+},
+{
+  "id": 213,
+  "question": "다음 중 점액포자충의 포자구성이 아닌 것은?",
+  "options": [
+    "polar capsule",
+    "conoid",
+    "sporoplasm",
+    "",
+    "polar filament"
+  ],
+  "answer": 4
+},
+{
+  "id": 214,
+  "question": "고수온기 양식장에서 백색 결절을 나타내는 것?",
+  "options": [
+    "",
+    "Glugea",
+    "Myxobolus",
+    "Myxidium",
+    ""
+  ],
+  "answer": 2
+},
+{
+  "id": 215,
+  "question": "닻벌레가 스스로 영양 섭취를 하는 첫 단계 명칭은?",
+  "options": [
+    "copepodid 1기",
+    "copepodid 5기",
+    "nauplii",
+    "",
+    ""
+  ],
+  "answer": 1
+},
+{
+  "id": 216,
+  "question": "필요 시 숙주에 붙어서 혈액 체액을 빨아 먹고 다시 떠나는 기생충은?",
+  "options": [
+    "",
+    "",
+    "",
+    "",
+    "Argulus"
+  ],
+  "answer": 5
+},
+{
+  "id": 217,
+  "question": "백점병 구제 활동이 가장 효과적인 시기?",
+  "options": [
+    "Theront",
+    "Tomont",
+    "protomont",
+    "tomite",
+    "trophont"
+  ],
+  "answer": 1
+},
+{
+  "id": 218,
+  "question": "뱀장어에 발생하며 소세지형 특징을 가지는 원인체는?",
+  "options": [
+    "",
+    "",
+    "",
+    "",
+    "Dermocystidium"
+  ],
+  "answer": 5
+},
+{
+  "id": 219,
+  "question": "참굴 난소에 기생하는 것은?",
+  "options": [
+    "",
+    "Bonamia ostrae",
+    "Marteilioides chungmuensis",
+    "Perkinsus",
+    ""
+  ],
+  "answer": 3
+},
+{
+  "id": 220,
+  "question": "스쿠티카에 대한 설명으로 옳지 않은 것은?",
+  "options": [
+    "뇌에 감염된다",
+    "피부 궤양이 발생한다.",
+    "중감염시 치료가 어렵다",
+    "편모가 없어 운동성이 없다.",
+    ""
+  ],
+  "answer": 4
+},
+{
+  "id": 221,
+  "question": "Anisakis에 대한 설명으로 옳은 것은?",
+  "options": [
+    "중간숙주가 삼치, 연어 등이 있다.",
+    "",
+    "유충이 장을 뚫고 들어가서 기생한다.",
+    "",
+    "사람에는 기생하지 않는다."
+  ],
+  "answer": 3
+},
+{
+  "id": 222,
+  "question": "해수어 냉장·냉동 후 해방 시 근육액화·연화를 유발하는 기생충은?",
+  "options": [
+    "Myxidium",
+    "Ichthyophthirius",
+    "Pleistophora",
+    "Kudoa",
+    ""
+  ],
+  "answer": 4
+},
+{
+  "id": 223,
+  "question": "아가미에 기생하는 것은?",
+  "options": [
+    "",
+    "",
+    "Benedenia",
+    "Amyloodinium",
+    ""
+  ],
+  "answer": 4
+},
+{
+  "id": 224,
+  "question": "잉어에 장폐색을 일으키며 내부에서 부패 냄새가 나는 기생충은?",
+  "options": [
+    "Thelohanellus kitauei",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "answer": 1
+},
+{
+  "id": 225,
+  "question": "닻벌레와 물이의 구제방법은?",
+  "options": [
+    "포르말린 20~30ppm 영구욕",
+    "황산동",
+    "1% 식염수 처리",
+    "마소텐 0.3ppm 영구욕",
+    "유산동"
+  ],
+  "answer": 4
+},
+{
+  "id": 226,
+  "question": "무지개송어에서 신장·심근·전신근육의 백색 반점 및 신장 비대를 일으키는 기생충은?",
+  "options": [
+    "백점충",
+    "노카르디아",
+    "노세마",
+    "쿠도아",
+    "킬로도넬라"
+  ],
+  "answer": 3
+},
+{
+  "id": 227,
+  "question": "복면 환상 치설구조·점액과다·호흡곤란을 일으키는 섬모충은?",
+  "options": [
+    "백점충",
+    "킬로도넬라충",
+    "에피스틸리스충",
+    "브루클리넬라충",
+    "트리코디나충"
+  ],
+  "answer": 5
+},
+{
+  "id": 228,
+  "question": "Longicollum의 표적기관은?",
+  "options": [
+    "췌장",
+    "신장",
+    "비장",
+    "직장",
+    "간"
+  ],
+  "answer": 4
+},
+{
+  "id": 229,
+  "question": "은어 Xenoma를 형성하는 기생충은?",
+  "options": [
+    "Nosema",
+    "Lama",
+    "Glugea",
+    "Plesisrophora anguillarum",
+    ""
+  ],
+  "answer": 3
+},
+{
+  "id": 230,
+  "question": "뱀장어 표피에 요철성 궤양이 있을 때, 질병진단 방식은?",
+  "options": [
+    "슬라이드 검경",
+    "세포배양",
+    "",
+    "진균배양",
+    ""
+  ],
+  "answer": 1
+}
+]

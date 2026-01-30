@@ -1,0 +1,878 @@
+[
+  {
+    "id": 1,
+    "question": "다음 중 ppm 단위와 현저하게 다른 농도는? (용매/용질 밀도 1.0)",
+    "options": ["mg/liter", "g/ton", "g/kg", "ml/ton", ""],
+    "answer": 3
+  },
+  {
+    "id": 2,
+    "question": "분포용적을 나타낸 것은?",
+    "options": ["", "", "", "체내존재량(mg/h) / 혈장농도(mg/L)", ""],
+    "answer": 4
+  },
+  {
+    "id": 3,
+    "question": "Cytochrome P450과 관련하여 틀린 것은?",
+    "options": ["기체 산소를 기질로 이용", "Fe 포함", "약물대사효소 집합체", "활면소포체 단백질", "미토콘드리아에 많이 존재"],
+    "answer": 5
+  },
+  {
+    "id": 4,
+    "question": "약품 경구투여 시 가장 주안점은?",
+    "options": ["", "", "먹이섭취율", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 5,
+    "question": "경구투여 설명으로 옳은 것은?",
+    "options": ["가장 비용이 적음", "흡수속도 일정", "위점막 자극·구토 가능", "긴급 투여에 적합", ""],
+    "answer": 3
+  },
+  {
+    "id": 6,
+    "question": "체내 환부가 있는 질병에 효과적인 치료법은?",
+    "options": ["경구투여", "침지법", "약욕법", "살포법", "유수욕법"],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "어류 백신의 투여경로 중 가장 현명한 방법은?",
+    "options": ["경구투여", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "어류 백신 투여 방법 중 가장 많이 사용하는 것은?",
+    "options": ["경구투여", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "question": "백신사용 시 경구투여 설명 중 틀린 것은?",
+    "options": ["", "가장 빠른 방법", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "question": "구강백신의 장점이 아닌 것은?",
+    "options": ["경로", "백신물질", "면역 극대화", "경제성", ""],
+    "answer": 3
+  },
+  {
+    "id": 11,
+    "question": "약욕법 설명으로 옳지 않은 것은?",
+    "options": ["외부 기생충 효과적", "개체별 효과 균일", "예방·치료 모두 사용", "환경 영향 적음", "경제적 부담 큼"],
+    "answer": 4
+  },
+  {
+    "id": 12,
+    "question": "면역증강제 투여방법 중 가장 효과가 좋은 것은?",
+    "options": ["침지법", "경구투여", "주사법", "분무법", "침지법"],
+    "answer": 3
+  },
+  {
+    "id": 13,
+    "question": "어류 백신 접종 시 거의 사용하지 않는 방법은?",
+    "options": ["", "", "", "분사법", ""],
+    "answer": 4
+  },
+  {
+    "id": 14,
+    "question": "근육 자극성이 강한 백신의 적절한 투여방법은?",
+    "options": ["micro-capsule", "정맥내", "중·배부동", "미부", "근육내"],
+    "answer": 3
+  },
+  {
+    "id": 15,
+    "question": "약품투여 50mg/kg/일. 5일, 양식어 1톤 투여량은?",
+    "options": ["100g", "150g", "200g", "250g", "300g"],
+    "answer": 4
+  },
+  {
+    "id": 16,
+    "question": "약물 투여 전 급이량 감소 이유가 아닌 것은?",
+    "options": ["위장관 파괴 방지", "흡수율 증가", "완전섭취", "수중손실 최소화", ""],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "question": "동일 약품에서 체내잔류기간에 영향을 주는 요소는?",
+    "options": ["투여량", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "question": "약효 지속시간 단축 요인이 아닌 것은?",
+    "options": ["착화합물 형성", "장간 재순환 증가", "배설 증가", "대사 증가", "혈장단백 결합"],
+    "answer": 2
+  },
+  {
+    "id": 19,
+    "question": "약물 흡수에 영향을 미치지 않는 것은?",
+    "options": ["반감기", "용해도", "분자량", "흡수속도", ""],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "question": "체내 약물 흡수속도와 관계 없는 것은?",
+    "options": ["흡수부위 농도", "분자량", "용해도·해리상수", "반감기", "흡수표면·pH"],
+    "answer": 4
+  },
+  {
+    "id": 21,
+    "question": "마취단계 진행순서가 맞는 것은?",
+    "options": ["진정→흥분→외과→연수마비", "진정→흥분→연수→외과", "흥분→진정→연수→외과", "흥분→연수→진정→외과", "흥분→진정→외과→연수"],
+    "answer": 1
+  },
+  {
+    "id": 22,
+    "question": "지방용해도 영향이 큰 흡수과정은?",
+    "options": ["세포흡수", "촉진확산", "수동적 이동", "여과", "확산"],
+    "answer": 5
+  },
+  {
+    "id": 23,
+    "question": "위장관 내 흡수가 해리도에 영향을 가장 받는 것은?",
+    "options": ["능동수송", "촉진수송", "확산", "여과", ""],
+    "answer": 3
+  },
+  {
+    "id": 24,
+    "question": "약물의 생체이용률(bioavailability)은?",
+    "options": ["담즙 후 재흡수율", "대사효소 효율", "인체 전이 정도", "세포 구성 전환율", "체내흡수도"],
+    "answer": 5
+  },
+  {
+    "id": 25,
+    "question": "온수성어 dipping 적온은?",
+    "options": ["5℃", "10℃", "15℃", "20℃", "25℃"],
+    "answer": 5
+  },
+  {
+    "id": 26,
+    "question": "휴약기간의 기준은?",
+    "options": ["", "출하 예정일 역산", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 27,
+    "question": "약효가 갑자기 떨어지는 현상은?",
+    "options": ["", "", "반응급강하(급성내성)", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 28,
+    "question": "항균제 지속투여로 효과가 사라지는 현상은?",
+    "options": ["세균 약물저항성", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 29,
+    "question": "항균제 병용효과가 아닌 것은?",
+    "options": ["상협효과", "범위 확대", "병원성 지연", "중복감염 유도", "정균+살균 길항효과"],
+    "answer": 4
+  },
+  {
+    "id": 30,
+    "question": "소독제 병용 시 나타나지 않는 효과는?",
+    "options": ["", "", "", "상가작용", ""],
+    "answer": 4
+  },
+  {
+    "id": 31,
+    "question": "약리효과 중 심리적 효과는?",
+    "options": ["플라시보 효과", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 32,
+    "question": "소비자의 의약품 안전성과 가장 밀접한 요소는?",
+    "options": ["수산식품 내 잔류량", "약리효과", "수중농도", "인체 대사", "흡수율"],
+    "answer": 1
+  },
+  {
+    "id": 33,
+    "question": "휴약기간의 근거는?",
+    "options": ["MRL", "최대흡수율", "최대배설치", "약품 종류", "약리작용"],
+    "answer": 1
+  },
+  {
+    "id": 34,
+    "question": "약제 잔류 분석 시 사용하는 방법은?",
+    "options": ["", "", "N,P 화합물에 강한 검출기", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 35,
+    "question": "교차내성이 일어나는 경우가 아닌 것은?",
+    "options": ["설파제 상호간", "TC 상호간", "페니실린·스트렙토마이신", "에리스로·올레안도마이신", ""],
+    "answer": 3
+  },
+  {
+    "id": 36,
+    "question": "상협작용을 일으키는 약품 조합은?",
+    "options": ["Gentamycin-Ampicillin", "Streptomycin-Kanamycin", "Aminoglycoside-Penicillin", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 37,
+    "question": "eugenol+polysorbate 80 혼합 마취제는?",
+    "options": ["MS-222", "Lidocaine", "Metomidate", "Aqui-S", "Etomidate"],
+    "answer": 4
+  },
+  {
+    "id": 38,
+    "question": "약물 종류·용도 잘못 연결된 것은?",
+    "options": ["metronidazole-항원충", "ketoconazole-항진균", "acyclovir-항바이러스", "colistin-구충제", ""],
+    "answer": 4
+  },
+  {
+    "id": 39,
+    "question": "세포벽 저해·산성에 강하고 그람음성에도 유효한 항균제는?",
+    "options": ["", "", "", "", "Ampicillin"],
+    "answer": 5
+  },
+  {
+    "id": 40,
+    "question": "방부제·소독제 중 작용 기간이 가장 빠른 것은?",
+    "options": ["산화제", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 41,
+    "question": "산화작용을 이용하는 소독제가 아닌 것은?",
+    "options": ["benzalkonium chloride", "peracetic acid", "benzoyl peroxide", "H2O2", "KMnO4"],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "4가 암모늄 복합체가 소독효과가 적은 이유는?",
+    "options": ["", "", "", "세포막·단백질 손상", ""],
+    "answer": 4
+  },
+  {
+    "id": 43,
+    "question": "계면활성제가 아닌 것은?",
+    "options": ["benzalkonium", "sodium lauryl sulfate", "tyloxapol", "lidocaine", ""],
+    "answer": 4
+  },
+  {
+    "id": 44,
+    "question": "계면활성 작용 소독제는?",
+    "options": ["chloramine-T", "fumagillin", "차아염소산나트륨", "benzalkonium chloride", "povidone iodine"],
+    "answer": 4
+  },
+  {
+    "id": 45,
+    "question": "계면활성 살균소독제가 아닌 것은?",
+    "options": ["acriflavin", "benzalkonium", "sodium lauryl sulfate", "cetrimide", ""],
+    "answer": 1
+  },
+  {
+    "id": 46,
+    "question": "그람양성균에 유효한 polypeptide계 항생물질은?",
+    "options": ["", "", "bacitracin, vancomycin", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 47,
+    "question": "Ach-E 저해제 약물은?",
+    "options": ["", "", "", "", "mebendazole, ivermectin"],
+    "answer": 5
+  },
+  {
+    "id": 48,
+    "question": "Benzocaine·MS-222 설명 중 틀린 것은?",
+    "options": ["염산염 산성 강해 중화 필요", "MS-222보다 빛 안정", "MS-222보다 효과 강함", "MS-222보다 저렴", "염기형은 용해도 낮음"],
+    "answer": 2
+  },
+  {
+    "id": 49,
+    "question": "MS-222와 동일 분자량을 가진 이성체는?",
+    "options": ["Piscaine", "Benzocaine", "Quinaldine sulfate", "Eugenol", "2-phenoxyethanol"],
+    "answer": 2
+  },
+  {
+    "id": 50,
+    "question": "Benzocaine 마취 농도를 증가시키는 요인은?",
+    "options": ["물의 경도", "물의 pH", "고수온", "용존산소", "용해보조제 존재"],
+    "answer": 3
+  },
+  {
+    "id": 51,
+    "question": "Benzocaine에 대한 설명 중 옳지 않은 것은?",
+    "options": ["수 시간 내 상당량 배설", "흡수·배설이 아가미에서 일어남", "아세틸 포합체는 아가미로 배설", "수온 높으면 독성 증가", "염기형은 물 용해도 낮음"],
+    "answer": 3
+  },
+  {
+    "id": 52,
+    "question": "벤조카인에 관한 설명으로 틀린 것은?",
+    "options": ["수온 높을수록 마취 농도 감소", "MS-222와 이성질체", "염산염 용해도 > 염기형", "빛에 민감", ""],
+    "answer": 1
+  },
+  {
+    "id": 53,
+    "question": "벤조카인 설명 중 틀린 것은?",
+    "options": ["아세톤에 녹는다", "햇빛에 분해", "지용성", "인체용 국소마취제", "고온일수록 마취 빠름"],
+    "answer": 5
+  },
+  {
+    "id": 54,
+    "question": "벤조카인의 산성을 중화하여 사용하는 이유는?",
+    "options": ["", "햇빛에 분해", "흡수 촉진", "", "부작용 방지"],
+    "answer": 5
+  },
+  {
+    "id": 55,
+    "question": "항균·구충작용이 강한 방향족 화합물은?",
+    "options": ["bithinol", "DDVP", "colistine", "ivermectin", "quinine"],
+    "answer": 1
+  },
+  {
+    "id": 56,
+    "question": "Tetrazolium과 관계있는 것은?",
+    "options": ["세균 증식", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 57,
+    "question": "방향족 소독제는?",
+    "options": ["phenol", "trichlorophon", "cresol", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 58,
+    "question": "연어에서 유래, 칼슘 이용 촉진하여 골다공증 치료에 효과 있는 약물은?",
+    "options": ["", "calcitonin", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 59,
+    "question": "Chloramphenicol의 특징은?",
+    "options": ["", "", "", "", "효과 즉시, 가역적, 단백질 합성 저해"],
+    "answer": 5
+  },
+  {
+    "id": 60,
+    "question": "유아·소아에 회백증후군을 일으키는 물질은?",
+    "options": ["Chloramphenicol", "Sulfonamide", "Nitrofuran", "Formalin", "Oxytetracycline"],
+    "answer": 1
+  },
+  {
+    "id": 61,
+    "question": "가장 안전한 마취제는?",
+    "options": ["MS-222", "Lidocaine", "Metomidate", "Aqui-S", "CO2"],
+    "answer": 5
+  },
+  {
+    "id": 62,
+    "question": "Chloramine T 최종 분해 생성물은?",
+    "options": ["Hydrochlorite", "Hydrochlorous acid", "Chlorine", "CO2", "Formic acid"],
+    "answer": 3
+  },
+  {
+    "id": 63,
+    "question": "물속 염소 제거 방법이 아닌 것은?",
+    "options": ["끓이기", "활성탄", "폭기", "암모니아 첨가", "소듐치오설페이트"],
+    "answer": 4
+  },
+  {
+    "id": 64,
+    "question": "잔류염소 독성 설명 중 틀린 것은?",
+    "options": ["아가미 손상", "저수온에서 오래 유지", "과량 Na2S2O3 독성 큼", "Na2S2O3로 제거", "활성탄 제거 가능"],
+    "answer": 3
+  },
+  {
+    "id": 65,
+    "question": "연어알 소독용 유리염소 용량·시간은?",
+    "options": ["0.05mg/L, 18초", "0.5mg/L, 180초", "0.05%, 180분", "0.5%, 18초", "50ppm, 180초"],
+    "answer": 1
+  },
+  {
+    "id": 66,
+    "question": "살충제 중 어류에 가장 독성이 강한 물질은?",
+    "options": ["", "derris", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 67,
+    "question": "독성 강한 유기염소계 농약이 아닌 것은?",
+    "options": ["aldrin", "DDT", "chlordane", "lindane", "diazinon"],
+    "answer": 5
+  },
+  {
+    "id": 68,
+    "question": "척추만곡을 일으키는 유기인계 농약이 아닌 것은?",
+    "options": ["aldrin", "malathion", "parathion", "dichlorvos", "diazinon"],
+    "answer": 1
+  },
+  {
+    "id": 69,
+    "question": "Diazinon·MEP 중독이 아닌 것은?",
+    "options": ["척추 굽음", "아가미 울혈", "간 괴사 소형성", "용혈(혈액 산성화)", ""],
+    "answer": 4
+  },
+  {
+    "id": 70,
+    "question": "유기인계 중독 직접 지표는?",
+    "options": ["피부 흑변", "간헐적 경련", "비가역성 마취", "용혈 증가", "혈장 esterase 활성 감소"],
+    "answer": 5
+  },
+  {
+    "id": 71,
+    "question": "diathin·malathin·parathin 피해 농도는?",
+    "options": ["0.008ppm 이하", "0.08ppm 이하", "0.008ppb 이하", "0.08ppb 이하", "0.8ppb 이하"],
+    "answer": 4
+  },
+  {
+    "id": 72,
+    "question": "유기인계 농약 병증은?",
+    "options": ["척추골 골절", "아가미 점액 증가", "", "체색 변화", "성장부진·면역저하"],
+    "answer": 1
+  },
+  {
+    "id": 73,
+    "question": "EDTA 영향 기관은?",
+    "options": ["세포벽", "핵막", "리보솜", "소포체", "미토콘드리아"],
+    "answer": 1
+  },
+  {
+    "id": 74,
+    "question": "식이용 어류에 검출되면 안 되는 의약품은?",
+    "options": ["", "", "", "", "엔노프로삭신"],
+    "answer": 5
+  },
+  {
+    "id": 75,
+    "question": "lactam ring을 가지며 50S 저해 약물은?",
+    "options": ["Erythromycin", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 76,
+    "question": "분자량 큰 ring 구조, G(-) 효과 없고 G(+ ) 효과 큰 약물은?",
+    "options": ["", "", "Erythromycin", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 77,
+    "question": "연쇄구균증(육아종 형성) 치료 약제는?",
+    "options": ["OTC", "Neomycin", "Erythromycin", "Sulfadimethoxine", "Trichlorophon"],
+    "answer": 3
+  },
+  {
+    "id": 78,
+    "question": "Erythromycin 약욕 장기시 문제점은?",
+    "options": ["", "", "", "", "여과세균 전멸"],
+    "answer": 5
+  },
+  {
+    "id": 79,
+    "question": "세균 포자 살상 가능한 것은?",
+    "options": ["phenol", "chlorohexidin", "ethylene oxide, malachite green", "hexachlorophen", "cresol"],
+    "answer": 3
+  },
+  {
+    "id": 80,
+    "question": "AQUI-S 10ppm 필요 시 100L에 넣을 양은?",
+    "options": ["5mL", "2mL", "1mL", "0.5mL", "0.2mL"],
+    "answer": 2
+  },
+  {
+    "id": 81,
+    "question": "포르말린 사용 시 어체 장애는?",
+    "options": ["출혈", "표피 단백질 응고", "빈혈", "염증", ""],
+    "answer": 2
+  },
+  {
+    "id": 82,
+    "question": "꽃게류 진균증 예방 부화조 약품은?",
+    "options": ["포르말린", "요오드", "메틸렌블루", "식염", ""],
+    "answer": 1
+  },
+  {
+    "id": 83,
+    "question": "전 세계 식용어류 사용 금지 약물은?",
+    "options": ["OTC", "Sulfonamide", "Flumequine", "Erythromycin", "chloramphenicol, nitrofuran"],
+    "answer": 5
+  },
+  {
+    "id": 84,
+    "question": "PKD에 효과 있는 항생물질은?",
+    "options": ["Fumagillin", "Streptomycin", "Erythromycin", "Neomycin", "Ciprofloxacin"],
+    "answer": 1
+  },
+  {
+    "id": 85,
+    "question": "할로겐 소독제가 아닌 것은?",
+    "options": ["Iodine", "Phenol", "Bromine", "Chlorine", "Chlorophor"],
+    "answer": 2
+  },
+  {
+    "id": 86,
+    "question": "강력한 소독작용을 가지는 할로겐제는?",
+    "options": ["요오드", "염소", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 87,
+    "question": "알 표면에 주로 사용하는 소독제는?",
+    "options": ["", "", "요오드(포비돈)", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 88,
+    "question": "요오드 소독 시 피해야 할 상황은?",
+    "options": ["", "", "햇빛 존재 시", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 89,
+    "question": "Aminoglycoside계 단백질합성 억제 항균제는?",
+    "options": ["kanamycin", "chloramphenicol", "minocycline", "kitasamycin", ""],
+    "answer": 1
+  },
+  {
+    "id": 90,
+    "question": "포비돈 요오드 난 소독법 중 틀린 것은?",
+    "options": ["1회 사용 후 폐기", "사란 제거", "직사광선 노출", "손 소독 후 취급", "10% 원액 200배 희석", "무색돼도 소독력 유지"],
+    "answer": 3
+  },
+  {
+    "id": 91,
+    "question": "IHNV 예방 난소독 시 가장 주의할 사항은?",
+    "options": ["pH 변동", "DO 변동", "부화조 크기", "환수율", ""],
+    "answer": 1
+  },
+  {
+    "id": 92,
+    "question": "난 소독 시 요오드 농도·시간은?",
+    "options": ["10ppm 5분", "15ppm 5분", "15ppm 10분", "25ppm 10분", "25ppm 15분"],
+    "answer": 5
+  },
+  {
+    "id": 93,
+    "question": "활성형 산소·수산기 살균작용을 발휘하는 것은?",
+    "options": ["povidone iodine", "NaOCl", "phenol", "H2O2", "KMnO4"],
+    "answer": 5
+  },
+  {
+    "id": 94,
+    "question": "발생기 산소를 일으키는 산화제는?",
+    "options": ["", "H2O2", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 95,
+    "question": "동물용 의약품 범주에 속하지 않는 것은?",
+    "options": ["양봉용", "양잠용", "수산용", "애완용", "해조류"],
+    "answer": 5
+  },
+  {
+    "id": 96,
+    "question": "Imidazole 유도체는?",
+    "options": ["", "", "ketoconazole", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 97,
+    "question": "KMnO4 사용 시 담수어에서 가장 신경 쓸 점은?",
+    "options": ["수질", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 98,
+    "question": "KMnO4가 붉은색→무색으로 변하는 이유는?",
+    "options": ["", "", "환원되어 MnO2 생성", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 99,
+    "question": "발암성으로 금지됐으나 PKD 효과 있는 약제는?",
+    "options": ["cypermethrin", "fumagillin", "malachite green", "bithionol", "chloramine-T"],
+    "answer": 3
+  },
+  {
+    "id": 100,
+    "question": "말라카이트그린 중독 시 중화물질은?",
+    "options": ["", "", "", "아황산나트륨", ""],
+    "answer": 4
+  },
+  {
+    "id": 101,
+    "question": "MS-222에 대한 설명으로 옳지 않은 것은?",
+    "options": ["담수·해수 모두 용해", "햇빛에 노출 보관", "염기이나 녹이면 산성", "독성은 온도와 비례", "80g/L 최소필요량"],
+    "answer": 2
+  },
+  {
+    "id": 102,
+    "question": "MS-222의 주된 약리 활성 성분은?",
+    "options": ["Cocaine", "Benzocaine", "Tricaine", "Lidocaine", "CO2"],
+    "answer": 3
+  },
+  {
+    "id": 103,
+    "question": "MS-222 사용 시 sodium bicarbonate를 넣는 이유는?",
+    "options": ["수중 pH 상승", "MS-222 분해 방지", "MS-222 분해 촉진", "용존산소 증가", "수온 감소"],
+    "answer": 1
+  },
+  {
+    "id": 104,
+    "question": "숙주의 중추신경계에 영향을 미치는 것은?",
+    "options": ["nalidic acid", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 105,
+    "question": "Nalidixic acid(pKa=6.1) 흡수 관점에서 옳은 것은?",
+    "options": ["위에서 잘 흡수", "소장에서 잘 흡수", "거의 비슷", "자료로 예측 불가", "공복-위, 급이 후-소장"],
+    "answer": 1
+  },
+  {
+    "id": 106,
+    "question": "그람양성균에 작용하는 aminoglycoside는?",
+    "options": ["", "", "Neomycin", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 107,
+    "question": "항생제 후효과(Post-antibiotic effect)를 나타내는 약물은?",
+    "options": ["", "", "Nitrofuran(aminoglycoside계 포함)", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 108,
+    "question": "Nitrofuran의 저해작용은?",
+    "options": ["", "", "DNA 손상", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 109,
+    "question": "Nitrofuran의 약리작용기전은?",
+    "options": ["", "", "DNA 합성 장애", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 110,
+    "question": "Nitrofurantoin의 약리작용기전은?",
+    "options": ["", "", "세균 DNA 손상", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 111,
+    "question": "Nitropuratoin계 항생제 작용기전은?",
+    "options": ["세포벽", "세포막", "단백합성", "DNA 합성 장애", ""],
+    "answer": 4
+  },
+  {
+    "id": 112,
+    "question": "중국 터봇 사건 관련, 5-nitro-2-furaldehyde 유도체 약물은?",
+    "options": ["Nitrofuran", "Chloramphenicol", "Ampicillin", "Malachite green", "Formalin"],
+    "answer": 1
+  },
+  {
+    "id": 113,
+    "question": "니트로후란제 투여 시 가장 주의해야 할 것은?",
+    "options": ["", "빛", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 114,
+    "question": "Trimethoprim 설명 중 틀린 것은?",
+    "options": ["Sulfonamide와 병용 시 상협작용", "세균 엽산 생성 방해", "PABA와 구조 유사", "DHFR 억제", "선택적 독성"],
+    "answer": 3
+  },
+  {
+    "id": 115,
+    "question": "DHFR 억제를 통해 항균작용을 나타내는 약물은?",
+    "options": ["", "", "Ormethoprim, Trimethoprim", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 116,
+    "question": "Trimethoprim의 세균에 대한 작용은?",
+    "options": ["세포벽 합성 방해", "단백합성 방해", "엽산 생성 방해", "호흡장애", "핵산합성 방해"],
+    "answer": 3
+  },
+  {
+    "id": 117,
+    "question": "OTC 사용 시 경수에서 용량이 많은 이유는?",
+    "options": ["", "", "", "", "2가 양이온 결합으로 킬레이트 형성"],
+    "answer": 5
+  },
+  {
+    "id": 118,
+    "question": "OTC 해수 사용량이 많은 이유는?",
+    "options": ["", "Ca²⁺, Mg²⁺ 존재 많음", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 119,
+    "question": "단백합성 시 30S 억제 약물은?",
+    "options": ["OTC", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 120,
+    "question": "절창병에 효과가 좋은 약물은?",
+    "options": ["", "", "OTC", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 121,
+    "question": "에드워드증에 가장 유효한 것은?",
+    "options": ["", "OTC·Florfenicol", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 122,
+    "question": "A. salmonicida 절창병 치료에 사용하는 30S 결합 억제제는?",
+    "options": ["OTC", "chloramphenicol", "sulfonamides", "streptomycin", "erythromycin"],
+    "answer": 1
+  },
+  {
+    "id": 123,
+    "question": "테트라사이클린의 작용기전은?",
+    "options": ["50S 단백합성 억제", "30S 단백합성 억제", "엽산합성 방해", "세포막 억제", ""],
+    "answer": 2
+  },
+  {
+    "id": 124,
+    "question": "OTC 사용 시 혈액응고가 일어나면 결핍된 비타민은?",
+    "options": ["Vit A", "Vit B", "Vit C", "Vit D", "Vit K"],
+    "answer": 5
+  },
+  {
+    "id": 125,
+    "question": "뱀장어 OTC 투약(용량·방법·휴약기간)은?",
+    "options": ["", "50mg/kg, 경구, 30일", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 126,
+    "question": "옥솔린산을 해산어에 더 고농도로 처리하는 이유는?",
+    "options": ["", "Ca²⁺·Mg²⁺ 결합 때문", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 127,
+    "question": "뱀장어에 OA 사용 시 적당한 처리 조건은?",
+    "options": ["5g/ton 약욕·25일", "5g/ton 경구·25일", "10g/ton 주사·50~60일", "10g/ton 침지·50~60일", "10g/ton 경구·50~60일"],
+    "answer": 2
+  },
+  {
+    "id": 128,
+    "question": "뱀장어 적점병 치료 약물은?",
+    "options": ["", "", "", "Oxolinic acid", ""],
+    "answer": 4
+  },
+  {
+    "id": 129,
+    "question": "양식장 바닥 소독에 적절한 것은?",
+    "options": ["NaOCl", "rotenone", "zeolite", "CaO(생석회)", "Ca(OH)2(소석회)"],
+    "answer": 1
+  },
+  {
+    "id": 130,
+    "question": "수중 O3 제거 방법은?",
+    "options": ["활성탄", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 131,
+    "question": "O3 분해를 위해 여과조에 설치하는 것은?",
+    "options": ["", "", "", "활성탄", ""],
+    "answer": 4
+  },
+  {
+    "id": 132,
+    "question": "O3 소독 시 생성되는 독성물질은?",
+    "options": ["", "브롬 산화물", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 133,
+    "question": "종묘생산 시 자외선 소독 문제점은?",
+    "options": ["", "부유물 문제, IPN에 효과 없음", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 134,
+    "question": "자외선 소독력이 가장 강한 파장은?",
+    "options": ["500~1000Å", "1000~1500Å", "1500~1800Å", "1800~2000Å", "2000~2200Å"],
+    "answer": 5
+  },
+  {
+    "id": 135,
+    "question": "Sulfonamide의 특징은?",
+    "options": ["정균작용, PABA 경쟁, folate 고갈", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 136,
+    "question": "Parabenzoic acid 억제 약물은?",
+    "options": ["", "", "Sulfonamide", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 137,
+    "question": "설폰아마이드 과다급여 시 어체 변화는?",
+    "options": ["", "", "", "", "척추기형·탈골"],
+    "answer": 5
+  },
+  {
+    "id": 138,
+    "question": "Folic acid 합성에서 PABA와 경쟁하는 약물은?",
+    "options": ["", "", "Sulfadiazine", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 139,
+    "question": "장내세균 살균용 설파제는?",
+    "options": ["", "", "sulfasalazine", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 140,
+    "question": "테트라사이클린계 항생제가 경수에서 고농도 필요한 이유는?",
+    "options": ["", "", "", "킬레이트 형성 때문에", ""],
+    "answer": 4
+  },
+  {
+    "id": 141,
+    "question": "치암페니콜 항균성 영향 요인이 아닌 것은?",
+    "options": ["온도", "혈청", "pH", "분해효소", ""],
+    "answer": 2
+  },
+  {
+    "id": 142,
+    "question": "항생제 병용 설명 중 적절하지 않은 것은?",
+    "options": ["상협효과 위해 사용", "광범위 항균 목적", "가능하면 하나만 사용", "병용 시 독성 감소", "정균제+살균제 병용 시 상협효과"],
+    "answer": 5
+  },
+  {
+    "id": 143,
+    "question": "콜린에스테라아제와 결합해 신경기능 정지시키는 유기인화합물은?",
+    "options": ["", "trichlorophon", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 144,
+    "question": "Tributyltin(TBT)의 특징은?",
+    "options": ["soman", "parathion", "유기주석", "atrazine", "DDT"],
+    "answer": 3
+  },
+  {
+    "id": 145,
+    "question": "독성이 강하고 연수에서 아가미 유착을 일으키는 약제는?",
+    "options": ["", "황산동", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 146,
+    "question": "황산구리 투여 시 가장 주안점은?",
+    "options": ["", "", "", "알칼리도", ""],
+    "answer": 4
+  }
+]

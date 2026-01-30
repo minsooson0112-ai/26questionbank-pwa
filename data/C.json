@@ -1,0 +1,1190 @@
+[
+  {
+    "id": 1,
+    "question": "일반 미생물의 세포구조가 아닌 단백질 및 핵산의 입자로서 분열·증식하는 미생물은?",
+    "options": ["물질대사", "당류", "점균류", "바이러스", "엽록체"],
+    "answer": 4
+  },
+  {
+    "id": 2,
+    "question": "바이러스의 구분기준이 아닌 것은?",
+    "options": ["극성", "외피", "대칭성", "표적장기", "capsid"],
+    "answer": 4
+  },
+  {
+    "id": 3,
+    "question": "바이러스에 대한 설명이 바른 것은?",
+    "options": [
+      "환경수나 사육수 중에서는 증식될 수가 없다.",
+      "배양용 합성배지에서 집락을 형성한다.",
+      "2분열 방식으로 증식한다.",
+      "항생물질로 바이러스를 제거할 수 있다.",
+      "리보솜으로 단백질을 만들 수 있다."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "다음 중 바이러스의 특징으로 옳지 않은 것은?",
+    "options": [
+      "DNA와 RNA를 모두 가지고 있다.",
+      "성장할 수 없다.",
+      "이분열법으로 증식하지 않는다.",
+      "ATP 생산에 관여하는 효소계를 가지고 있지 않다.",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "question": "helix의 구조는 단백질의 몇 차 구조인가?",
+    "options": ["1차구조", "2차구조", "3차구조", "4차구조", "5차구조"],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "question": "다음 중 virus의 유전물질인 유전자는?",
+    "options": ["DNA 또는 RNA", "리보솜", "capsid", "capsomer", "아미노산"],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "다음 중 핵산을 둘러싸고 있는 것은?",
+    "options": ["", "", "capsid", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 8,
+    "question": "virus의 바깥층에 있으면서 가장 작은 단위를 나타내는 것은?",
+    "options": ["virion", "capsid", "protomer", "neucleocapsid", "capsomer"],
+    "answer": 3
+  },
+  {
+    "id": 9,
+    "question": "단단하게 응집되어 있고, ssRNA로 구성되어 있는 것은?",
+    "options": ["viroid", "virion", "prion", "virus", "virusoide"],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "question": "다음 중 감염성이 있는 바이러스의 최소단위는?",
+    "options": ["viroid", "virion", "prion", "virus", "virusoide"],
+    "answer": 2
+  },
+  {
+    "id": 11,
+    "question": "다음 중 virus에 관한 설명으로 틀린 것은?",
+    "options": ["", "외피를 없애면 독소가 없어진다.", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 12,
+    "question": "mRNA가 300개가 있다. 단백질(혹은 아미노산)을 몇 개 만들 수 있는가?",
+    "options": ["100개", "150개", "300개", "600개", "900개"],
+    "answer": 1
+  },
+  {
+    "id": 13,
+    "question": "DNA와 RNA를 공통으로 가지고 있지 않은 미생물은?",
+    "options": ["Bacteria", "Rikettsia", "Chlamydia", "Virus", ""],
+    "answer": 4
+  },
+  {
+    "id": 14,
+    "question": "다음 중 virus 감염 시 가장 중요한 면역담당세포는?",
+    "options": ["인터페론, 림프구", "호중구, 호산구", "호염기구", "백혈구", "Macrophage"],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "물 속의 병원균이 숙주에 침입하여 질병을 일으키는 것을 무엇이라고 하는가?",
+    "options": ["수직감염", "수평감염", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 16,
+    "question": "바이러스 질병의 대책으로 잘못된 것은?",
+    "options": ["아직까지는 근본적인 치료방법이 없다.", "예방소독 철저", "외부 병원체 유입 차단", "부화 용수 자외선 소독", "맨 밑 하류에서 사육"],
+    "answer": 5
+  },
+  {
+    "id": 17,
+    "question": "바이러스에서 주화세포를 사용하는 이유는?",
+    "options": ["", "", "복제기능을 이용하기 위해서", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 18,
+    "question": "주화세포와 함께 반응하는 것은?",
+    "options": ["", "", "복제", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 19,
+    "question": "다음 중 PFU의 의미로 알맞은 것은?",
+    "options": ["", "단위세포변성", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 20,
+    "question": "다음 중 CPE의 의미로 알맞은 것은?",
+    "options": ["", "", "", "세포변성효과", ""],
+    "answer": 4
+  },
+  {
+    "id": 21,
+    "question": "세포변성효과의 특징이 아닌 것은?",
+    "options": ["", "", "", "", "중화항체"],
+    "answer": 5
+  },
+  {
+    "id": 22,
+    "question": "다음 중 나머지와 연관성 없는 것은?",
+    "options": ["비리온", "TCID", "CPE", "PI", "NA"],
+    "answer": 5
+  },
+  {
+    "id": 23,
+    "question": "다음 중 세포배양에 쓰이는 일반배지는 어느 것인가?",
+    "options": ["Eagle's MEM", "Hank's BSS", "Dulbecco's PBS", "Difco's TPB", ""],
+    "answer": 1
+  },
+  {
+    "id": 24,
+    "question": "기주세포에 경쟁적 반응결과가 아닌 것은?",
+    "options": ["", "", "HA(Hemagglutination, 혈청응집)", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 25,
+    "question": "특정 항체 바이러스를 중화시험에 사용하는 방법으로 아닌 것은?",
+    "options": ["혈구응집반응", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 26,
+    "question": "다음 중 envelope이 없는 virus는?",
+    "options": ["Herpes salmonicida", "Orthomyxovirus", "Rhabdovirus", "Picornavirus", "Paramyxovirus"],
+    "answer": 4
+  },
+  {
+    "id": 27,
+    "question": "바이러스 중화시험에 사용하는 방법이 아닌 것은?",
+    "options": ["TCID50", "CPE", "혈구응집", "PFU", "MOI"],
+    "answer": 3
+  },
+  {
+    "id": 28,
+    "question": "바이러스 중화시험 결과 적절한 단위는?",
+    "options": ["TCID50", "CPE", "혈구응집", "PFU", "MOI"],
+    "answer": 1
+  },
+  {
+    "id": 29,
+    "question": "바이러스 중화시험 결과로 알 수 있는 것은?",
+    "options": ["", "표적세포에 반응하는 항체가 있는 것을 확인할 수 있다.", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 30,
+    "question": "바이러스 중화시험에 사용하는 것이 아닌 것은?",
+    "options": ["바이러스에 반응하는 항체", "주화세포", "생리활성물질", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 31,
+    "question": "다음 중 중화시험 또는 TCID50 수치로 알 수 없는 것은?",
+    "options": ["항체의 양", "항원의 양", "", "보체량", "단백질의 질량"],
+    "answer": 5
+  },
+  {
+    "id": 32,
+    "question": "다음 중 중화항체에 대한 설명으로 옳은 것은?",
+    "options": ["", "", "", "", "바이러스를 항체와 반응시켜 바이러스가 숙주에 감염하지 못하도록 증식하지 못하는 정도를 측정한다."],
+    "answer": 5
+  },
+  {
+    "id": 33,
+    "question": "virus 분리 시 초원심분리과정에서 상층액을 제거하는 이유는?",
+    "options": ["", "불순물 제거", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 34,
+    "question": "eclipse period가 세균에는 없는데, 바이러스에는 있다. 그 의미는?",
+    "options": ["", "", "바이러스가 감염되었으나 보이지 않는 상태이다. (total virus의 양은 0이다.)", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 35,
+    "question": "다음 중 RNA virus에 속하지 않는 것은?",
+    "options": ["Rhabdovirus", "Herpesvirus", "Reovirus", "Birnavirus", ""],
+    "answer": 2
+  },
+  {
+    "id": 36,
+    "question": "다음 중 가장 큰 virus는?",
+    "options": ["Orthomyxovirus", "Paramyxovirus", "Poxvirus", "Parvovirus", ""],
+    "answer": 3
+  },
+  {
+    "id": 37,
+    "question": "다음 중 가장 큰 바이러스는?",
+    "options": ["Herpesvirus", "Orthomyxoviridae", "Reoviridae", "Picornavirus", "Myxoviridae"],
+    "answer": 1
+  },
+  {
+    "id": 38,
+    "question": "다음 중 ss virus가 아닌 것은 무엇인가?",
+    "options": ["Herpesvirus", "Rhabdovirus", "Nodavirus", "Retrovirus", "Picornavirus"],
+    "answer": 1
+  },
+  {
+    "id": 39,
+    "question": "다음의 동물 바이러스 중 핵산이 DNA로 구성되어 있는 것은?",
+    "options": ["Baculoviridae", "Togaviridae", "Retroviridae", "Rhabdoviridae", ""],
+    "answer": 1
+  },
+  {
+    "id": 40,
+    "question": "다음의 동물 바이러스 중 핵산이 RNA로 구성되어 있는 것은?",
+    "options": ["Reoviridae", "Poxviridae", "Adenoviridae", "Papovaviridae", ""],
+    "answer": 1
+  },
+  {
+    "id": 41,
+    "question": "다음 질병원 중 감염숙주가 나머지와 다른 하나는?",
+    "options": ["IPN", "Vibrio", "VHS", "IHN", "WSSV"],
+    "answer": 5
+  },
+  {
+    "id": 42,
+    "question": "다음 중 성질이 다른 것은?",
+    "options": ["IPN", "Vibrio", "VHS", "IHN", "WSSV"],
+    "answer": 2
+  },
+  {
+    "id": 43,
+    "question": "다음 중 OIE 지정질병이 아닌 것은?",
+    "options": ["EHN", "SVC", "IHN", "VHS", "적혈구괴사바이러스(ENV)"],
+    "answer": 5
+  },
+  {
+    "id": 44,
+    "question": "OIE가 확인·통보해야 하는 질병이 아닌 것은?",
+    "options": ["EHN", "IHN", "VNN", "SVC", "VHS"],
+    "answer": 3
+  },
+  {
+    "id": 45,
+    "question": "어류 바이러스 배양 시 고려사항이 아닌 것은?",
+    "options": ["pH", "주화세포", "적당량의 O2 공급", "배지 조성", "온도"],
+    "answer": 3
+  },
+  {
+    "id": 46,
+    "question": "바이러스성 질병의 진단을 위해 사용되는 주화세포가 아닌 것은?",
+    "options": ["RTHG-2", "FHM", "CPE", "BF-2", ""],
+    "answer": 3
+  },
+  {
+    "id": 47,
+    "question": "다음의 어류 유래 주화세포 중 세포의 형이 섬유아성세포인 것은?",
+    "options": ["RTG-2", "FHM", "SWT", "YNK", ""],
+    "answer": 1
+  },
+  {
+    "id": 48,
+    "question": "다음 중 SSN이 주화세포인 virus가 특히 병변을 나타내는 기관은?",
+    "options": ["장관", "안구", "아가미", "뇌", "체표"],
+    "answer": 4
+  },
+  {
+    "id": 49,
+    "question": "뱀장어 허피스 바이러스병의 주된 외부증상은?",
+    "options": ["복부팽만", "안구돌출", "지느러미 발적", "아가미 곤봉화", "점상출혈"],
+    "answer": 2
+  },
+  {
+    "id": 50,
+    "question": "다음은 외부증상으로 붙은 질병의 이름들이다. 이 중 외부증상과 관련이 없는 virus는?",
+    "options": ["WSSVD", "RV-PJ", "HNND", "WSI", "SEBBV"],
+    "answer": 4
+  },
+  {
+    "id": 51,
+    "question": "다음의 경골어류 유래 주화세포 중 세포의 형이 상피성 세포인 것은?",
+    "options": ["FHM", "AS", "BF-2", "RF", ""],
+    "answer": 1
+  },
+  {
+    "id": 52,
+    "question": "다음 중 잉어의 대표적인 cell line으로 짝지어진 것은?",
+    "options": ["RTG-2, RTG-3", "RTG-2, FHM", "EPC, CHSE-214", "EPC, FHM", ""],
+    "answer": 4
+  },
+  {
+    "id": 53,
+    "question": "새우에 발생하는 virus와 관련하여 틀린 것은?",
+    "options": ["DNA virus이다.", "핵이 비대된다.", "간췌장이 붉게 된다.", "외배엽성 유래구조만 공격한다.", "수중의 다른 갑각류가 중간숙주이다."],
+    "answer": 4
+  },
+  {
+    "id": 54,
+    "question": "바이러스 자체의 효소가 있어야 숙주에서 합성이 가능한 것은?",
+    "options": ["dsDNA virus", "ssDNA virus", "dsRNA virus", "+ssRNA virus", ""],
+    "answer": 3
+  },
+  {
+    "id": 55,
+    "question": "다음 중 대표적인 발암성 바이러스에 해당되지 않는 것은?",
+    "options": ["OMV", "VHS", "LCDV", "Pox", ""],
+    "answer": 2
+  },
+  {
+    "id": 56,
+    "question": "OVVD 감염 시 참굴의 치패 조사 면반은?",
+    "options": ["", "상피세포 박리", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 57,
+    "question": "바이러스 복제반응이 RNA와 DNA가 다른 이유는 무엇인가?",
+    "options": ["", "", "", "", "negative에서는 같은 주형으로 복제된다."],
+    "answer": 5
+  },
+  {
+    "id": 58,
+    "question": "다음 중 Herpesvirus에 해당하지 않는 virus는?",
+    "options": ["CCVD", "FHV", "ENV", "OMV", "Pox"],
+    "answer": 3
+  },
+  {
+    "id": 59,
+    "question": "패류의 헤르페스형 바이러스병의 특징은?",
+    "options": ["소화선이 유백색으로 변한다.", "아가미가 검어진다.", "껍데기가 엷어진다.", "감염세포의 핵이 작아진다.", "패각의 개폐가 활발해진다."],
+    "answer": 1
+  },
+  {
+    "id": 60,
+    "question": "육각형 모양의 바이러스로 지름 70~90mm인, 풍토병이라고 하는 패류의 질병은?",
+    "options": ["헤르페스바이러스병", "바이러스성패혈증", "림포시스티스", "이자괴사병", "퍼킨서스병"],
+    "answer": 1
+  },
+  {
+    "id": 61,
+    "question": "패류의 헤르페스형 바이러스병의 치료 및 대책으로 옳은 것은?",
+    "options": ["23도 이하에서 양식한다.", "마소텐을 0.3ppm 농도로 살포한다.", "과망간산칼륨용액에 약욕한다.", "술파디메톡신에 3일간 약욕한다.", "하이포아염소산나트륨 10ppm에 1분간 침지한다."],
+    "answer": 1
+  },
+  {
+    "id": 62,
+    "question": "Herpesvirus는 연어류의 종양을 유발하는 원인이 된다. 병리학적으로 어종에 관계없이 가장 특징적으로 변화가 일어나는 장기는?",
+    "options": ["간", "신장", "비장", "아가미", "생식소"],
+    "answer": 1
+  },
+  {
+    "id": 63,
+    "question": "다음 중 cell line에서 syncytium을 하는 virus는?",
+    "options": ["iridovirus", "megalocytivirus", "herpesvirus", "picoronavirus", "ranavirus"],
+    "answer": 3
+  },
+  {
+    "id": 64,
+    "question": "다음 중 Channel Catfish Virus는 분류상 어느 group에 속하는가?",
+    "options": ["Herpesvirus", "Reovirus", "Rhabdovirus", "Iridovirus", ""],
+    "answer": 1
+  },
+  {
+    "id": 65,
+    "question": "다음 중 Herpesvirus에 의한 질병은?",
+    "options": ["채널메기바이러스병", "능성어바이러스병", "코버트 폐사병", "뱀장어EVE바이러스병", "전염성조혈기괴사증"],
+    "answer": 1
+  },
+  {
+    "id": 66,
+    "question": "다음 중 channel catfish가 CCVD에 감염되었을 때 나타나는 특징적 증상은?",
+    "options": ["평형실조, 나선상 운동 및 현수상태", "식욕감퇴로 복부 함몰", "안구돌출 및 아가미 빈혈", "췌장선조직 괴사소 형성, 타 장기 병변 없음", ""],
+    "answer": 1
+  },
+  {
+    "id": 67,
+    "question": "다음 중 channel catfish의 CCVD에 대한 설명으로 옳은 것은?",
+    "options": ["RNA virus이며 세포질에서 증식", "주로 15도 이하 동절기에 발병", "에텔·클로로포름 감수성 있음", "성어에서 주 감염", ""],
+    "answer": 3
+  },
+  {
+    "id": 68,
+    "question": "감염어의 대책으로 사육수온을 10도 정도로 낮추면 효과가 있는 질병은?",
+    "options": ["메기바이러스병", "능성어바이러스병", "잉어폭스병", "뱀장어바이러스병", "부식병"],
+    "answer": 1
+  },
+  {
+    "id": 69,
+    "question": "메기바이러스병이 발생한 양어장에 가장 알맞은 대책은?",
+    "options": ["사육수온 10도 낮춤", "사육수온 10도 높임", "스피라마이신 경구투여", "해수 30분 침지", "사육수온 15도 이상으로 올림"],
+    "answer": 1
+  },
+  {
+    "id": 70,
+    "question": "다음 중 Herpesvirus 감염 시 나타나는 질병은?",
+    "options": ["", "상피증생증", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 71,
+    "question": "살아남은 어류의 입 주위에 상피성 종양을 형성하여 상품성을 떨어뜨리는 virus는?",
+    "options": ["RSIV", "VHS", "CCVD", "WSSV", "OMV"],
+    "answer": 5
+  },
+  {
+    "id": 72,
+    "question": "수온 18~20도에서 넙치가 부화한 후 10~20일경에 나타나는 바이러스성 질병은?",
+    "options": ["", "", "", "상피증생증", ""],
+    "answer": 4
+  },
+  {
+    "id": 73,
+    "question": "먹이를 먹지 않고 성장하지 않으며, 소화관 위축·체색흑화가 나타나는 바이러스성 질병은?",
+    "options": ["", "", "상피증생증", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 74,
+    "question": "다음의 어병 바이러스 중 어류에 종양을 형성하는 virus는?",
+    "options": ["OMV", "CCV", "HVS", "EHV-1", ""],
+    "answer": 1
+  },
+  {
+    "id": 75,
+    "question": "다음 중 표피세포가 이상증식되는 질병은?",
+    "options": ["스쿠티카증", "IPN", "CCVD", "VHS", "넙치상피증생증"],
+    "answer": 5
+  },
+  {
+    "id": 76,
+    "question": "연어과어류에 Herpesvirus 감염증을 일으키는 바이러스는 어떤 CPE를 나타내는가?",
+    "options": ["세포 내 봉입체 형성", "다핵거세포 형성", "세포핵 붕괴", "핵막 크로마틴의 과립화", ""],
+    "answer": 2
+  },
+  {
+    "id": 77,
+    "question": "연어과어류에 감염증을 일으키는 OMV에 관한 설명으로 옳은 것은?",
+    "options": ["RNA virus, 에테르 감수성 없음", "virion 직경 100nm, pH 8 불활화", "발육적온 10~15도, 20도 이상 불활화", "CPE는 다수 봉입체 관찰", ""],
+    "answer": 3
+  },
+  {
+    "id": 78,
+    "question": "다음의 어병 바이러스 중 종양원성을 가진 것은?",
+    "options": ["IPNV", "HVDV", "OMV", "VENV", ""],
+    "answer": 3
+  },
+  {
+    "id": 79,
+    "question": "잉어의 머리, 몸 표면, 꼬리 상피세포에 종양이 증식하여 융기하는 바이러스병은?",
+    "options": ["", "", "", "", "잉어 Pox병"],
+    "answer": 5
+  },
+  {
+    "id": 80,
+    "question": "잉어의 체표에 유백색 융기 환부가 생기는 Pox병의 원인체는?",
+    "options": ["", "Herpesvirus", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 81,
+    "question": "다음 중 잉어 폭스병의 주된 증상은?",
+    "options": ["각 지느러미 붕괴", "복부팽만", "탈장증세", "피부 유백색 종양", "피부 검은 색소 형성"],
+    "answer": 4
+  },
+  {
+    "id": 82,
+    "question": "혈액도말표본 염색 시 이형비대세포가 보이는 virus는?",
+    "options": ["", "Iridovirus(RSIV)", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 83,
+    "question": "다음 중 Iridovirus가 아닌 것은?",
+    "options": ["ENV", "LCDV", "RSIV", "EHN", ""],
+    "answer": 1
+  },
+  {
+    "id": 84,
+    "question": "다음 중 Ranavirus가 속하는 family는?",
+    "options": ["Iridovirus", "Herpesvirus", "Orthomyxovirus", "Reovirus", "Rhabdovirus"],
+    "answer": 1
+  },
+  {
+    "id": 85,
+    "question": "다음 중 Iridoviridae에 속하는 것은?",
+    "options": ["Frog virus 3", "ENV", "VHS", "OMV", "CCVD"],
+    "answer": 1
+  },
+  {
+    "id": 86,
+    "question": "1998년 가두리 돌돔양식장에서 발생한 고수온기 DNA virus는?",
+    "options": ["", "이리도바이러스", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 87,
+    "question": "비장을 스탬프했을 때 이형비대세포가 발견되는 병원체는?",
+    "options": ["", "", "이리도바이러스", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 88,
+    "question": "참돔이리도바이러스(iridovirus)는 에테르 감수성이 있다. 이로 알 수 있는 특징은?",
+    "options": ["RNA virus", "정이십면체", "지질 외피 보유", "핵 내 기생", ""],
+    "answer": 3
+  },
+  {
+    "id": 89,
+    "question": "림포시스티스에 대한 설명으로 옳은 것은?",
+    "options": ["nucleoid core는 RNA", "글리세린·에테르로 불활성화", "감염세포는 퇴행성 병변, 치명적", "주 감염 대상은 연어과", ""],
+    "answer": 2
+  },
+  {
+    "id": 90,
+    "question": "다음 중 자연 치유되나 상품가치를 떨어뜨리는 바이러스성 질병은?",
+    "options": ["RSIV", "VHS", "CCVD", "WSSV", "Lymphocystis"],
+    "answer": 5
+  },
+  {
+    "id": 91,
+    "question": "수포를 형성해서 상품가치를 떨어뜨리는 바이러스성 질병은?",
+    "options": ["", "LD(Lymphocystis Disease)", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 92,
+    "question": "수온이 하강하는 10월경에 발생하는 DNA virus로 인한 질병은?",
+    "options": ["", "LD(Lymphocystis Disease)", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 93,
+    "question": "지느러미와 체표에 종양세포 덩어리를 형성하는 질병은?",
+    "options": ["LD(Lymphocystis Disease)", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 94,
+    "question": "감염 시 입 주변·체표·내부장기에 큰 세포 덩어리를 형성하는 질병은?",
+    "options": ["IHN", "Lymphocystis", "VHS", "VNN", "IPN"],
+    "answer": 2
+  },
+  {
+    "id": 95,
+    "question": "생명에는 지장이 없지만 흉터를 남겨 상품 가치를 하락시키는 바이러스성 질병은?",
+    "options": ["", "LD(Lymphocystis Disease)", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 96,
+    "question": "Lymphocystis에 감염된 넙치의 섬유아세포 변화 중 옳지 않은 것은?",
+    "options": ["계속적으로 크기가 증대", "세포 수가 증가", "최종적으로 자연파괴", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 97,
+    "question": "Lymphocystis에 관한 설명으로 옳은 것은?",
+    "options": ["해산어·일부 기수어에 발생", "임파구를 target으로 공격", "크기 130~280nm, 어종 따라 다름", "액체로 가득한 수포 형성", ""],
+    "answer": 3
+  },
+  {
+    "id": 98,
+    "question": "림포시스티스에서 초기에 체표에 작은 진주모양 환부가 형성된다. 이에 대한 설명으로 옳은 것은?",
+    "options": ["감염 바이러스 둘러싼 육아종", "바이러스 감염된 섬유아세포가 증대", "점액세포 이상증식", "백점병 2차 감염", ""],
+    "answer": 2
+  },
+  {
+    "id": 99,
+    "question": "어류 머리·지느러미·꼬리에 작은 수포가 형성되는 질병은?",
+    "options": ["넙치 랍도바이러스", "림포시스티스병", "IHN", "능성어바이러스병", "에드워드병"],
+    "answer": 2
+  },
+  {
+    "id": 100,
+    "question": "흑점병이라 불리는 질병은?",
+    "options": ["에드워드병", "스쿠티카병", "림포시스티스병", "물곰팡이병", "부식병"],
+    "answer": 3
+  },
+  {
+    "id": 101,
+    "question": "조피볼락 가두리 양어장에서 검은색 수포형 종양이 많다면 추정되는 질병은?",
+    "options": ["에드워드병", "비브리오병", "림포시스티스병", "전염성췌장괴사병", "적혈구봉입체증"],
+    "answer": 3
+  },
+  {
+    "id": 102,
+    "question": "림포시스티스의 특징으로 틀린 것은?",
+    "options": ["정상세포보다 크다", "핵 크기가 크다", "인의 크기가 크다", "세포질 내 호염기성 봉입체 형성", "감염세포 주변 백색색소포 발달"],
+    "answer": 5
+  },
+  {
+    "id": 103,
+    "question": "림포시스티스는 자연적으로 낫기도 한다. 다음 중 자연치유와 관련 없는 것은?",
+    "options": ["공포 형성", "봉입체 작은 조각으로 분해", "호중구 탐식", "봉입체 형태변화", "흑색세포"],
+    "answer": 3
+  },
+  {
+    "id": 104,
+    "question": "다음 중 체색흑화를 보이지 않는 질병은?",
+    "options": ["조혈기괴사증", "림포시스티스", "전염성췌장괴사증", "바이러스출혈성패혈증", "복어 구백증"],
+    "answer": 2
+  },
+  {
+    "id": 105,
+    "question": "병소에 적혈구가 깨져 있고 1~4μm 붉은 둥근 덩어리가 보인다. 이 질병은?",
+    "options": ["크립토비아", "", "", "", "적혈구괴사바이러스"],
+    "answer": 5
+  },
+  {
+    "id": 106,
+    "question": "흰반점 바이러스 감염 시 외골격의 흰점 성분은?",
+    "options": ["K", "Ca", "Na", "Mg", "Fe"],
+    "answer": 2
+  },
+  {
+    "id": 107,
+    "question": "BMNV 감염 새우의 중장선이 희게 보이는 이유는?",
+    "options": ["", "", "관공 내 괴사 탈락물", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 108,
+    "question": "곤충 버큘로바이러스 질병은?",
+    "options": ["WSSV", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 109,
+    "question": "새우 중장선에 감염되며 장상피세포 비대·백탁을 나타내는 virus는?",
+    "options": ["RSIV", "WSSV", "OMV", "VHS", "CCVD"],
+    "answer": 2
+  },
+  {
+    "id": 110,
+    "question": "BMNV는 새우 어느 조직에 가장 큰 피해를 주는가?",
+    "options": ["아가미", "중장선", "소화관", "근육", ""],
+    "answer": 2
+  },
+  {
+    "id": 111,
+    "question": "새우의 중장선바이러스는?",
+    "options": ["WSSV", "BMNV", "TSV", "YHD", "IMN"],
+    "answer": 2
+  },
+  {
+    "id": 112,
+    "question": "새우 체표에 백점이 관찰되며 7월 수온에서 발생하는 질병은?",
+    "options": ["WSSV", "BMNV", "TSV", "YHD", "IMN"],
+    "answer": 1
+  },
+  {
+    "id": 113,
+    "question": "새우 체표에 백점이 나타나며 고수온기(7~8월)에 발생하는 질병은?",
+    "options": ["WSSV", "BMNV", "TSV", "YHD", "IMN"],
+    "answer": 1
+  },
+  {
+    "id": 114,
+    "question": "새우에 발생하는 virus는?",
+    "options": ["RSIV", "VHS", "WSSV", "OMV", "CCVD"],
+    "answer": 3
+  },
+  {
+    "id": 115,
+    "question": "BMN에 대한 설명으로 옳은 것은?",
+    "options": ["한 가닥 RNA 보유", "에텔 저항성", "상품크기 새우만 감염", "숙주세포 내 72×310nm 간상비리온", ""],
+    "answer": 4
+  },
+  {
+    "id": 116,
+    "question": "바이러스성 중장선 괴사병에 걸린 새우의 특징적 증상은?",
+    "options": ["아가미 흑색화", "중장선이 흰색·물러짐", "몸 색깔이 붉어짐", "두흉갑 백점", "부속지 오물부착"],
+    "answer": 2
+  },
+  {
+    "id": 117,
+    "question": "새우 흰반점바이러스병(WSSV) 감염 시 특징적 증상은?",
+    "options": ["몸 색 투명", "두흉갑 백반점", "아가미 출혈", "부속지 위축", "창자 백색화"],
+    "answer": 2
+  },
+  {
+    "id": 118,
+    "question": "IHHNV의 주된 증상은?",
+    "options": ["", "감염 새우의 액각이 반듯하지 않고 굽어짐", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 119,
+    "question": "BMN 감염 보리새우의 특징적 증상은?",
+    "options": ["어미 새우 중장선 파열", "유생 간췌장 백탁", "크기 관계없이 아가미 부식", "유생기 끝난 후 탈피 정지", ""],
+    "answer": 2
+  },
+  {
+    "id": 120,
+    "question": "다음 중 자외선에 강한 virus는?",
+    "options": ["RSIV", "VHS", "OMV", "IMNV", "IPN"],
+    "answer": 5
+  },
+  {
+    "id": 121,
+    "question": "보균상태로 있으면서 스트레스를 받으면 발병하는 virus는?",
+    "options": ["", "", "IPN", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 122,
+    "question": "IPN 또는 그 원인 바이러스의 특성으로 옳지 않은 것은?",
+    "options": ["부화 후 3개월 이내 어린 어류만 발병", "담수·해수 연어 모두 발생", "보균어 많다", "In vitro 배양 가능", ""],
+    "answer": 2
+  },
+  {
+    "id": 123,
+    "question": "체색흑화, 안구돌출, 복부팽만을 일으키고 6개월 이상 된 무지개송어에서 발병되는 virus는?",
+    "options": ["BMNV", "IPN", "VHS", "RSIV", "WSSV"],
+    "answer": 2
+  },
+  {
+    "id": 124,
+    "question": "자외선 조사로 물을 소독하기 어렵게 만드는 원인체는?",
+    "options": ["IPN", "IHN", "VHS", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 125,
+    "question": "전염성췌장괴사증(IPN) 바이러스에 대한 설명으로 옳은 것은?",
+    "options": ["비리온 160nm, 외피 있음", "RNA, -20도 불활화", "CPE는 핵 팽화·합포체", "RTG-2, pH 7.5, 17도에서 분리·배양", ""],
+    "answer": 4
+  },
+  {
+    "id": 126,
+    "question": "IPN 검사 시 슬라이드에 도말해야 하는 주요 장기는?",
+    "options": ["신장", "간", "췌장", "비장", "아가미"],
+    "answer": 3
+  },
+  {
+    "id": 127,
+    "question": "IPN 혈액도말 stamp 도말 시 가장 좋은 장기는?",
+    "options": ["간", "신장", "비장", "아가미", "생식소"],
+    "answer": 2
+  },
+  {
+    "id": 128,
+    "question": "IPN 질병이 주로 발병되는 어류는?",
+    "options": ["잉어", "메기", "뱀장어", "넙치", "송어"],
+    "answer": 5
+  },
+  {
+    "id": 129,
+    "question": "IPN 예방법으로 틀린 것은?",
+    "options": [
+      "모든 기구 및 유입수 살균 소독",
+      "수정란 상류에서 관리 및 검역",
+      "요오드 난 소독 시 감염 피할 수 있다(난 내부 감염 가능)",
+      "감염병력 없는 친어 사용",
+      "발생 직후 온도 15도 이상으로 올림"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 130,
+    "question": "송어 IPN, 방어 유결절증, 뱀장어 에드워드병에서 전신적 빈혈이 일어나는 이유는?",
+    "options": ["", "", "", "조혈조직 손상", ""],
+    "answer": 4
+  },
+  {
+    "id": 131,
+    "question": "Birnavirus에 속하며 수온 10도 전후, 1~2주 사이 냉수어에서 발생하는 질병은?",
+    "options": ["BMNV", "IPN", "VHS", "RSIV", "WSSV"],
+    "answer": 2
+  },
+  {
+    "id": 132,
+    "question": "6개월 이상 지속되면 감염 정도가 떨어지고 보균어가 되는 질병은?",
+    "options": ["", "", "IPN", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 133,
+    "question": "냉수어 치어에 감염되며 폐사율 높고 위에 우유빛 액체, 소화관 출혈을 보이는 virus는?",
+    "options": ["IPN", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 134,
+    "question": "보리새우 TSV(Taura Syndrome Virus)의 주된 증상은?",
+    "options": ["", "", "꼬리 빨개짐", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 135,
+    "question": "신경세포 괴사·대형 공포를 형성하는 virus는?",
+    "options": ["RSIV", "VHS", "VNN", "IMNV", "IHHNV"],
+    "answer": 3
+  },
+  {
+    "id": 136,
+    "question": "곤충바이러스인 Nodavirus 확인을 위해 도말하는 부위는?",
+    "options": ["뇌", "눈", "간", "신장", "비장"],
+    "answer": 2
+  },
+  {
+    "id": 137,
+    "question": "감염 시 선회증상을 보이다가 1~2주 후 바닥에 가라앉아 폐사하는 병원체는?",
+    "options": ["TSV", "RSIV", "VHS", "VNN", "OMV"],
+    "answer": 4
+  },
+  {
+    "id": 138,
+    "question": "VNN에 해당하는 virus 유형은?",
+    "options": ["dsDNA virus", "(+) ssDNA virus", "(-) ssDNA virus", "dsRNA virus", "(+) ssRNA virus"],
+    "answer": 5
+  },
+  {
+    "id": 139,
+    "question": "VNN과 같은 fragment 수를 가지는 virus는?",
+    "options": ["TSV", "RSIV", "VHS", "IPN", "OMV"],
+    "answer": 4
+  },
+  {
+    "id": 140,
+    "question": "역전사효소를 가진 virus는?",
+    "options": ["Retrovirus", "Herpesvirus", "Ranavirus", "Rhabdovirus", "Ronivirus"],
+    "answer": 1
+  },
+  {
+    "id": 141,
+    "question": "SSN-1 주화세포에서 배양 가능한 virus는?",
+    "options": ["RSIV", "VHS", "VNN", "TSV", "OMV"],
+    "answer": 3
+  },
+  {
+    "id": 142,
+    "question": "주로 수직감염되며 친어 생식소에 많이 존재하는 virus는?",
+    "options": ["RSIV", "VHS", "TSV", "OMV", "VNN"],
+    "answer": 5
+  },
+  {
+    "id": 143,
+    "question": "전갱이 친어에 감염되어 수직감염이 일어나고 생식소에 많이 존재하는 바이러스성 질병은?",
+    "options": ["VNN", "VHS", "TSV", "OMV", "IHHNV"],
+    "answer": 1
+  },
+  {
+    "id": 144,
+    "question": "농어, 돌돔 새끼가 배를 위로 하고 빙빙 돌며 힘없이 유영한다면 가장 먼저 검사할 부위는?",
+    "options": ["간", "신장", "비장", "아가미", "눈"],
+    "answer": 5
+  },
+  {
+    "id": 145,
+    "question": "Rhabdovirus의 모양은?",
+    "options": ["구형", "탄환형", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 146,
+    "question": "400~500g 넙치에서 많이 발생하는 virus는?",
+    "options": ["Retrovirus", "Herpesvirus", "Ranavirus", "Rhabdovirus", "Ronivirus"],
+    "answer": 4
+  },
+  {
+    "id": 147,
+    "question": "체표·지느러미 불투명, 복부팽만·함몰 증상을 나타내는 virus는?",
+    "options": ["", "HRV(Hirame Rhabdovirus)", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 148,
+    "question": "넙치 랍도바이러스의 증식 주화세포는?",
+    "options": ["", "CHSE-214", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 149,
+    "question": "넙치 랍도바이러스병의 증상과 거리가 먼 것은?",
+    "options": ["탈장증상", "근육 내 출혈", "지느러미 발적", "생식선 출혈", "신장·비장 괴사"],
+    "answer": 1
+  },
+  {
+    "id": 150,
+    "question": "Rhabdovirus의 증상이 아닌 것은?",
+    "options": ["복수저류", "근육 내 출혈", "비장 내 괴사", "지느러미출혈", "탈장"],
+    "answer": 5
+  },
+  {
+    "id": 151,
+    "question": "연중 수온 10~17도에서 신장·비장 조직에 출현하는 바이러스는?",
+    "options": ["Rhabdovirus", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 152,
+    "question": "다음 중 18~20도로 상승하면 폐사가 높아지는 바이러스는?",
+    "options": ["", "", "", "", "Rhabdovirus"],
+    "answer": 5
+  },
+  {
+    "id": 153,
+    "question": "지느러미·체표·근육에 출혈을 일으키는 virus는?",
+    "options": ["", "", "Rhabdovirus", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 154,
+    "question": "지느러미 기부출혈·근육 내 출혈·피부출혈을 나타내는 virus는?",
+    "options": ["", "", "", "Rhabdovirus", ""],
+    "answer": 4
+  },
+  {
+    "id": 155,
+    "question": "체표 V자출혈과 선상출혈을 일으키는 virus는?",
+    "options": ["", "", "", "IHN", ""],
+    "answer": 4
+  },
+  {
+    "id": 156,
+    "question": "전염성조혈기괴사증은 어떤 virus에 속하는가?",
+    "options": ["iridoviridae", "Ranaviridae", "Herpesviridae", "Rhabdoviridae", "Nodaviridae"],
+    "answer": 4
+  },
+  {
+    "id": 157,
+    "question": "V자 출혈을 나타내는 virus는?",
+    "options": ["IHN", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 158,
+    "question": "연어과어류의 전염성조혈기바이러스와 비슷한 virus는?",
+    "options": ["", "", "Rhabdovirus", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 159,
+    "question": "안구돌출·출혈·담낭 및 간 변화 등이 나타나지 않는 virus는?",
+    "options": ["", "Rhabdovirus", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 160,
+    "question": "Rhabdovirus의 증식적온은?",
+    "options": ["10도 이하", "15도 근처", "20도 이상", "25도 이하", "25도 이상"],
+    "answer": 2
+  },
+  {
+    "id": 161,
+    "question": "감염 시 V자형 출혈과 선상출혈을 보이는 질병은?",
+    "options": ["버나바이러스병", "VNN", "IHN", "VHS", "랍도바이러스병"],
+    "answer": 3
+  },
+  {
+    "id": 162,
+    "question": "다음 중 출혈이 많이 보이는 바이러스는?",
+    "options": ["IPN", "IHN", "SVC", "RSIV", "VNN"],
+    "answer": 2
+  },
+  {
+    "id": 163,
+    "question": "다음 중 Rhabdovirus에 속하지 않는 것은?",
+    "options": ["IHN", "VHS", "SVC", "IPN", ""],
+    "answer": 4
+  },
+  {
+    "id": 164,
+    "question": "전염성조혈기괴사병(IHNV)이 주로 발병되는 어류는?",
+    "options": ["연어", "넙치", "복어", "돔류", "새우"],
+    "answer": 1
+  },
+  {
+    "id": 165,
+    "question": "IHNV에 대한 설명으로 틀린 것은?",
+    "options": [
+      "연어류·넙치·돔류 등의 해산어에 감염된다.",
+      "envelope이 있다.",
+      "FHM·CHSE-214 감염 시 포도송이형 CPE",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "id": 166,
+    "question": "송어류 양식장 배수구에 폐사어가 모여 있고, 항문에 점액변이 매달리며 바닥에 가라앉지 못하고 옆으로 드러누워 반복 행동. 어떤 질병인가?",
+    "options": ["", "", "전염성조혈기괴사증(IHNV)", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 167,
+    "question": "어린 물고기 근육에 선상 또는 V자형 출혈이 보이는 질병은?",
+    "options": ["EVE", "IPN", "CCVD", "IHN", "VHS"],
+    "answer": 4
+  },
+  {
+    "id": 168,
+    "question": "온도 18~20도에서 폐사율이 높아지는 바이러스는?",
+    "options": ["", "", "Rhabdovirus", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 169,
+    "question": "연중수온 10~17도, 신장·비장 조직에서 출현하는 바이러스는?",
+    "options": ["Rhabdovirus", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 170,
+    "question": "VHS의 배양주화세포는?",
+    "options": ["CHSE-214", "RTG-2", "RTG-3", "BF-2", "KRF-3"],
+    "answer": 2
+  },
+  {
+    "id": 171,
+    "question": "VHS 감염 송어를 해부했을 때 변화가 가장 많은 장기는?",
+    "options": ["간", "신장", "비장", "아가미", "뇌"],
+    "answer": 2
+  },
+  {
+    "id": 172,
+    "question": "바이러스성출혈성패혈증(VHS)이 일어나는 어류는?",
+    "options": ["잉어", "민어", "차넬메기", "무지개송어", "금붕어"],
+    "answer": 4
+  },
+  {
+    "id": 173,
+    "question": "VHS의 증상으로 보기 어려운 것은?",
+    "options": ["아가미 빈혈", "말기 콩팥 색소 변화 및 팽창", "실 모양 점액변", "머리 물 표면에 내놓고 매달림", "복부팽만"],
+    "answer": 2
+  },
+  {
+    "id": 174,
+    "question": "체장 5cm 무지개송어를 폐사시키는 VHS는 몇 도 수온에서 유행하는가?",
+    "options": ["2~4도", "8~10도", "14~16도", "20도", ""],
+    "answer": 2
+  },
+  {
+    "id": 175,
+    "question": "새우 YHV는 두부가 노랗게 보인다. 원인은?",
+    "options": ["", "", "", "두흉부 간췌장이 녹아 노랗게 변함", ""],
+    "answer": 4
+  },
+  {
+    "id": 176,
+    "question": "양식 복어가 움직이는 물체만 보면 물고 늘어지고 주둥이가 문드러지는 이상 행동. 어떤 질병인가?",
+    "options": ["복어구백증(Kuchijito-sho)", "", "", "", ""],
+    "answer": 1
+  },
+  {
+    "id": 177,
+    "question": "복어의 주둥이에 궤양이 나타나는 질병은?",
+    "options": ["", "", "", "복어구백증(Kuchijito-sho)", ""],
+    "answer": 4
+  },
+  {
+    "id": 178,
+    "question": "감염 시 신경 광견병과 같은 이상 행동을 보이는 질병은?",
+    "options": ["", "복어구백증(Kuchijito-sho)", "", "", ""],
+    "answer": 2
+  },
+  {
+    "id": 179,
+    "question": "동정되지 않으며 움직이는 물질에 달라붙는 행동을 보이는 질병은?",
+    "options": ["", "", "복어구백증(Kuchijito-sho)", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 180,
+    "question": "복어 입 주변 궤양·체색흑화·간 출혈을 보이는, 바이러스 여부가 불명확한 질병은?",
+    "options": ["", "", "복어구백증(Kuchijito-sho)", "", ""],
+    "answer": 3
+  },
+  {
+    "id": 181,
+    "question": "복어의 신경병변으로 신경 쪽에 이상을 나타내는 원인체는?",
+    "options": ["", "", "", "", "복어구백증(Kuchijito-sho)"],
+    "answer": 5
+  },
+  {
+    "id": 182,
+    "question": "복어의 구백증을 진단할 때 CPE가 나타나는 주화세포는?",
+    "options": ["CHSE-214", "RTG-2", "BF-2", "KRF-3", "PGF"],
+    "answer": 5
+  },
+  {
+    "id": 183,
+    "question": "넙치 랩도바이러스의 증식 주화세포는?",
+    "options": ["CHSE-214", "SSN-1", "PFG", "CHH-1", "AF-29"],
+    "answer": 1
+  },
+  {
+    "id": 184,
+    "question": "RSIV 감염 시 나타나지 않는 증상은?",
+    "options": ["무기력", "비장 비대", "아가미 빈혈", "아가미 점상출혈", "안구돌출"],
+    "answer": 5
+  },
+  {
+    "id": 185,
+    "question": "높은 폐사율 찾기, (ㄱ)megalocytivirus, (ㄴ)ranavirus, (ㄷ)lymphocystisvirus (ㄹ)chloriridovirus",
+    "options": ["ㄱ", "ㄴ", "ㄱ, ㄴ", "ㄴ, ㄷ", "ㄷ, ㄹ"],
+    "answer": 3
+  },
+  {
+    "id": 186,
+    "question": "다음 설명에 해당하는 질병은?<탄환모양, RTG-2 세포에서 세포구형화 CPE, 감염 시 복부팽만·근육출혈>",
+    "options": ["herpesvirus", "rhabdovirus", "birnavirus", "iridovirus", "nodavirus"],
+    "answer": 2
+  },
+  {
+    "id": 187,
+    "question": "바이러스성출혈성패혈증(VHS) PCR 진단 시 가장 처음 하는 과정은?",
+    "options": ["겔 제조", "PCR 온도조건 설정", "95℃에서 dsDNA 변성", "DNA polymerase 활성화", ""],
+    "answer": 3
+  },
+  {
+    "id": 188,
+    "question": "Herpesvirus 외막은 숙주의 어떤 기관에서 유래되는가?",
+    "options": ["lysosome", "phagosome", "libosome", "golgi apparatus", "세포막"],
+    "answer": 4
+  },
+  {
+    "id": 189,
+    "question": "잉어 KHV의 특징으로 옳지 않은 것은?",
+    "options": ["지방조직 출혈", "아가미 괴사", "눈 함몰", "신장종대", "비장종대"],
+    "answer": 1
+  },
+  {
+    "id": 190,
+    "question": "감염 및 복제를 위해 virion 내 특수 기능 효소를 반드시 보유하는 바이러스는?",
+    "options": ["herpesvirus", "lymphocystis", "rhabdovirus", "iridovirus", "adenovirus"],
+    "answer": 3
+  },
+  {
+    "id": 191,
+    "question": "넙치 상피증생증에 걸린 세포입자의 특성으로 알맞은 것은?",
+    "options": [
+      "핵내 virion은 envelope가 있다.",
+      "입자는 정육면체이다.",
+      "RNA virus이다.",
+      "herpesvirus이다.",
+      "세포질 내 virion은 envelope가 없다."
+    ],
+    "answer": 4
+  },
+  {
+    "id": 192,
+    "question": "다음 중 잠재 독성이 가장 많은 백신은?",
+    "options": [
+      "attenuated live vaccine",
+      "heat-inactive vaccine",
+      "heat-inactive complement vaccine",
+      "recombination Ag vaccine",
+      ""
+    ],
+    "answer": 1
+  }
+]
